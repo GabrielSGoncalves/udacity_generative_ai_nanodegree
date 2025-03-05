@@ -169,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+## LLMs artifacts
+/gpt2-imdb-peft/
+/eval_output/
