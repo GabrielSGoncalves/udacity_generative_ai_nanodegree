@@ -169,6 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+*/.python-version*
+*checkpoint-*
 
 ## LLMs artifacts
 /gpt2-imdb-peft/
