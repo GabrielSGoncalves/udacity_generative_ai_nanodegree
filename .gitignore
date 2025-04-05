@@ -175,3 +175,6 @@ cython_debug/
 ## LLMs artifacts
 /gpt2-imdb-peft/
 /eval_output/
+
+# Project 4
+vector_db/
