@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
+    "ipywidgets>=8.1.5",
     "jupyterlab>=4.3.6",
     "lancedb>=0.21.2",
     "langchain>=0.3.21",
@@ -12,4 +13,5 @@ dependencies = [
     "langchain-openai>=0.3.11",
     "openai>=1.69.0",
     "pandas>=2.2.3",
+    "tqdm>=4.67.1",
 ]
