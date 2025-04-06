@@ -1,452 +1,902 @@
 [
   {
-    "Neighborhood": "Moema",
-    "Price": "$1,463,000",
-    "Bedrooms": "3",
-    "Bathrooms": "4",
-    "House Size": "2800 sqft",
-    "Description": "This stunning property in Moema offers luxurious living with 3 spacious bedrooms, 4 bathrooms, and a generous house size of 2800 sqft. The interior features high-end finishes, modern appliances, and ample natural light throughout. The master suite boasts a walk-in closet and a luxurious en-suite bathroom with a soaking tub. The open-concept living area is perfect for entertaining, with a gourmet kitchen, formal dining room, and a cozy fireplace. Outside, the beautifully landscaped backyard provides a private oasis with a patio and lush greenery.",
-    "Neighborhood Description": "Moema is a prestigious neighborhood known for its upscale residential properties, trendy boutiques, and fine dining options. It offers a high quality of life with its proximity to parks, schools, and shopping centers. Residents can enjoy a vibrant cultural scene, with art galleries, theaters, and music venues nearby. Moema is also well-connected to the rest of the city, making it a desirable location for those seeking a luxurious lifestyle in S\u00e3o Paulo."
-  },
-  {
-    "Neighborhood": "Bela Vista",
-    "Price": "$819,000",
-    "Bedrooms": "3",
-    "Bathrooms": "4",
-    "House Size": "2408 sqft",
-    "Description": "This stunning property in Bela Vista offers a luxurious living experience with 3 spacious bedrooms, 4 modern bathrooms, and a generous house size of 2408 sqft. The home features high-end finishes, a gourmet kitchen with stainless steel appliances, a cozy fireplace in the living room, and a beautifully landscaped backyard perfect for outdoor entertaining. The master suite boasts a spa-like ensuite bathroom and a walk-in closet, providing a peaceful retreat.",
-    "Neighborhood Description": "Bela Vista is a prestigious neighborhood known for its upscale homes, tree-lined streets, and proximity to top-rated schools, trendy restaurants, and boutique shops. Residents enjoy a vibrant community atmosphere, beautiful parks, and convenient access to major highways for easy commuting. Whether you're looking for a peaceful oasis or a bustling urban lifestyle, Bela Vista offers the best of both worlds."
-  },
-  {
-    "Neighborhood": "Bela Vista",
-    "Price": "$429,000",
-    "Bedrooms": "4",
-    "Bathrooms": "2",
-    "House Size": "3647 sqft",
-    "Description": "This stunning 4-bedroom, 2-bathroom home in Bela Vista is a true gem. With a spacious 3647 sqft layout, this property offers ample space for comfortable living. The interior features modern finishes, a gourmet kitchen with stainless steel appliances, a cozy fireplace in the living room, and a luxurious master suite with a spa-like bathroom. The backyard is perfect for entertaining with a large patio and lush greenery. This home is perfect for families or those who love to host gatherings.",
-    "Neighborhood Description": "Bela Vista is a charming and upscale neighborhood known for its tree-lined streets, beautiful parks, and friendly community atmosphere. Residents enjoy easy access to top-rated schools, trendy restaurants, boutique shops, and recreational facilities. With its close proximity to major highways, Bela Vista offers convenience for commuters and access to all the amenities of city living while still maintaining a peaceful suburban feel."
-  },
-  {
-    "Neighborhood": "Pinheiros",
-    "Price": "$570,000",
-    "Bedrooms": "2",
-    "Bathrooms": "1",
-    "House Size": "3203 sqft",
-    "Description": "This charming 2-bedroom, 1-bathroom home in Pinheiros is a unique find in the bustling city. The house boasts a spacious living area, a modern kitchen with stainless steel appliances, and a cozy backyard perfect for entertaining guests. The bedrooms are well-appointed with ample closet space, and the bathroom features a luxurious soaking tub. With a total of 3203 sqft, this property offers a comfortable and inviting space for you to call home.",
-    "Neighborhood Description": "Pinheiros is a vibrant and trendy neighborhood in Sao Paulo, known for its eclectic mix of art galleries, restaurants, and boutiques. With tree-lined streets and a lively atmosphere, residents enjoy a dynamic urban lifestyle with easy access to public transportation and green spaces. The neighborhood is also home to cultural hubs like Instituto Moreira Salles and SESC Pinheiros, making it a sought-after location for those looking to experience the best of city living."
-  },
-  {
-    "Neighborhood": "Bela Vista",
-    "Price": "$619,000",
-    "Bedrooms": "4",
-    "Bathrooms": "4",
-    "House Size": "2300 sqft",
-    "Description": "This stunning 4-bedroom, 4-bathroom home in Bela Vista is a true gem. With a spacious 2300 sqft layout, this property offers ample space for a growing family or those who love to entertain. The open concept kitchen features stainless steel appliances, granite countertops, and a large island. The master bedroom boasts a walk-in closet and en-suite bathroom with a luxurious soaking tub. The backyard is perfect for outdoor gatherings, with a covered patio and lush landscaping.",
-    "Neighborhood Description": "Bela Vista is a highly sought-after neighborhood known for its tree-lined streets, top-rated schools, and proximity to parks and shopping. Residents enjoy a strong sense of community and easy access to dining and entertainment options. With its peaceful atmosphere and convenient location, Bela Vista is the perfect place to call home."
-  },
-  {
-    "Neighborhood": "Moema",
-    "Price": "$975,000",
-    "Bedrooms": "1",
-    "Bathrooms": "3",
-    "House Size": "2890 sqft",
-    "Description": "This stunning property in Moema offers a unique opportunity for luxurious living. The spacious 2890 sqft house features 1 bedroom and 3 bathrooms, perfect for a single individual or a couple looking for a modern and stylish home. The property boasts high-end finishes, large windows that flood the space with natural light, and a sleek design throughout. The open-concept layout creates a seamless flow between the living room, dining area, and kitchen, making it ideal for entertaining guests. The master bedroom includes a luxurious en-suite bathroom with a soaking tub and separate shower. Additionally, the property comes with a private outdoor space, perfect for relaxing and enjoying the beautiful surroundings of Moema.",
-    "Neighborhood Description": "Moema is a highly sought-after neighborhood in Sao Paulo known for its upscale residential areas, trendy restaurants, and vibrant nightlife. Residents can enjoy easy access to parks, shopping centers, and cultural attractions, creating a dynamic and lively atmosphere. The tree-lined streets and well-maintained sidewalks make Moema a great place for walking and biking, while the proximity to public transportation options ensures convenient travel throughout the city. With its combination of luxury living and urban convenience, Moema is the perfect location for those seeking a sophisticated and vibrant lifestyle."
-  },
-  {
-    "Neighborhood": "Paraiso",
-    "Price": "$204,000",
+    "Neighborhood": "Liberdade",
+    "Price": "$1,229,000",
     "Bedrooms": "5",
-    "Bathrooms": "4",
-    "House Size": "1731 sqft",
-    "Description": "This stunning 5-bedroom, 4-bathroom home in the desirable Paraiso neighborhood is a must-see! The spacious house size of 1731 sqft offers ample space for a growing family or those who love to entertain. The property features a modern kitchen with stainless steel appliances, a cozy fireplace in the living room, a luxurious master suite with a walk-in closet, and a beautifully landscaped backyard perfect for outdoor gatherings. With plenty of natural light and a welcoming atmosphere, this home is truly a gem.",
-    "Neighborhood Description": "Paraiso is a charming and family-friendly neighborhood known for its tree-lined streets, well-maintained parks, and close-knit community atmosphere. Residents enjoy easy access to local schools, shopping centers, and dining options, making it a convenient place to call home. With its peaceful surroundings and proximity to amenities, Paraiso offers the perfect blend of comfort and convenience for homeowners."
+    "Bathrooms": "2",
+    "House Size": "3362 sqft",
+    "Description": "This stunning 5-bedroom, 2-bathroom home in the vibrant neighborhood of Liberdade is a rare find. The spacious house offers 3362 sqft of living space, perfect for a growing family or those who love to entertain. The open floor plan allows for seamless flow between the living room, dining area, and kitchen. The master bedroom features an en-suite bathroom and a walk-in closet, providing a luxurious retreat. The backyard is a private oasis with a well-maintained garden and a patio, ideal for outdoor gatherings. With modern amenities and stylish finishes throughout, this home is truly a gem in the heart of Liberdade.",
+    "Neighborhood Description": "Liberdade is a diverse and culturally rich neighborhood known for its vibrant street markets, colorful festivals, and excellent dining options. The area is home to a large Japanese community, reflected in its many sushi restaurants and shops selling traditional Japanese goods. Liberdade is also famous for its beautiful parks and gardens, providing a tranquil escape from the hustle and bustle of city life. With easy access to public transportation and close proximity to downtown, Liberdade offers the perfect balance of urban convenience and cultural charm."
   },
   {
-    "Neighborhood": "Pinheiros",
-    "Price": "$423,000",
+    "Neighborhood": "Moema",
+    "Price": "$341,000",
+    "Bedrooms": "5",
+    "Bathrooms": "3",
+    "House Size": "1469 sqft",
+    "Description": "This stunning 5-bedroom, 3-bathroom home in the desirable neighborhood of Moema is a rare find. With a spacious 1469 sqft layout, this property offers ample space for a large family or those who love to entertain. The home features a modern kitchen with stainless steel appliances, a cozy fireplace in the living room, and a beautifully landscaped backyard perfect for outdoor gatherings. The master bedroom boasts a luxurious en-suite bathroom with a soaking tub and separate shower. With hardwood floors throughout and plenty of natural light, this home exudes warmth and charm.",
+    "Neighborhood Description": "Moema is known for its upscale residential areas, trendy boutiques, and top-rated restaurants. The neighborhood offers a mix of modern condominiums and spacious single-family homes, making it a popular choice for families and young professionals alike. With tree-lined streets and easy access to parks and green spaces, Moema provides a peaceful retreat from the hustle and bustle of city life. Residents also enjoy convenient access to shopping centers, schools, and public transportation, making it a highly sought-after location in S\u00e3o Paulo."
+  },
+  {
+    "Neighborhood": "Bela Vista",
+    "Price": "$1,484,000",
     "Bedrooms": "2",
-    "Bathrooms": "2",
-    "House Size": "1988 sqft",
-    "Description": "This stunning property in the vibrant neighborhood of Pinheiros features 2 bedrooms, 2 bathrooms, and a spacious house size of 1988 sqft. The interior boasts modern finishes, an open concept layout, and ample natural light throughout. The master bedroom includes an en-suite bathroom with a luxurious soaking tub, perfect for relaxing after a long day. The second bedroom can easily be converted into a home office or guest room. The living room opens up to a private balcony, ideal for enjoying your morning coffee or hosting outdoor gatherings.",
-    "Neighborhood Description": "Pinheiros is known for its trendy atmosphere, bustling nightlife, and diverse culinary scene. With a mix of charming cafes, art galleries, and boutique shops, this neighborhood offers a unique blend of culture and convenience. Residents can explore the nearby parks, attend live music events, or indulge in delicious dining options just steps away from their doorstep. With easy access to public transportation and major highways, Pinheiros is a desirable location for those seeking a dynamic urban lifestyle."
+    "Bathrooms": "4",
+    "House Size": "1896 sqft",
+    "Description": "This stunning property in Bela Vista offers a luxurious and spacious living space with 2 bedrooms, 4 bathrooms, and a total of 1896 sqft. The house features high-end finishes, modern amenities, and ample natural light throughout. The open concept kitchen is equipped with top-of-the-line appliances, perfect for entertaining guests. The master bedroom includes a walk-in closet and a luxurious en-suite bathroom. The property also boasts a private backyard oasis, ideal for outdoor relaxation and gatherings.",
+    "Neighborhood Description": "Bela Vista is a sought-after neighborhood known for its upscale living, vibrant culture, and convenient location. Residents enjoy easy access to trendy restaurants, boutique shops, and beautiful parks. The neighborhood is also home to excellent schools and recreational facilities, making it an ideal choice for families. With its charming streets and friendly community atmosphere, Bela Vista offers a truly unique and desirable living experience."
   },
   {
     "Neighborhood": "Jardins",
-    "Price": "$757,000",
-    "Bedrooms": "4",
-    "Bathrooms": "1",
-    "House Size": "887 sqft",
-    "Description": "This charming 4-bedroom, 1-bathroom home in the sought-after neighborhood of Jardins offers a cozy and inviting living space. The house features a spacious kitchen with modern appliances, a bright and airy living room perfect for entertaining guests, and a lovely backyard garden ideal for relaxing outdoors. The bedrooms are well-appointed with ample closet space, and the bathroom is stylishly designed with sleek fixtures.",
-    "Neighborhood Description": "Jardins is a prestigious and upscale neighborhood known for its tree-lined streets, upscale boutiques, and fine dining establishments. Residents of Jardins enjoy a vibrant cultural scene, with art galleries, theaters, and museums just a short walk away. The neighborhood also offers easy access to parks, schools, and public transportation, making it an ideal location for those seeking a blend of convenience and luxury living."
-  },
-  {
-    "Neighborhood": "Moema",
-    "Price": "$1,180,000",
-    "Bedrooms": "4",
-    "Bathrooms": "3",
-    "House Size": "1193 sqft",
-    "Description": "This stunning 4-bedroom, 3-bathroom home in the sought-after neighborhood of Moema offers a perfect blend of modern amenities and classic charm. The spacious 1193 sqft house features an open floor plan with a gourmet kitchen, high ceilings, and large windows that fill the home with natural light. The master bedroom boasts a luxurious en-suite bathroom with a soaking tub and separate shower. Outside, the beautifully landscaped backyard provides a private oasis for relaxation and entertaining. With top-rated schools, trendy shops, and delicious restaurants just a short distance away, this home is perfect for families and professionals alike.",
-    "Neighborhood Description": "Moema is a vibrant and upscale neighborhood in Sao Paulo known for its tree-lined streets, upscale shopping centers, and proximity to Parque Ibirapuera. Residents enjoy easy access to a wide range of amenities, including fitness centers, cafes, and cultural attractions. Moema is also known for its excellent schools and safe streets, making it a popular choice for families. With its convenient location and luxurious homes, Moema offers a high quality of life for its residents."
-  },
-  {
-    "Neighborhood": "Morumbi",
-    "Price": "$246,000",
-    "Bedrooms": "3",
-    "Bathrooms": "2",
-    "House Size": "2394 sqft",
-    "Description": "This beautiful 3-bedroom, 2-bathroom home in Morumbi is the perfect blend of modern design and comfortable living. The spacious house size of 2394 sqft offers ample space for a growing family or those who enjoy entertaining guests. The property features a stunning open-concept layout, a gourmet kitchen with top-of-the-line appliances, a cozy fireplace in the living room, and a private backyard oasis perfect for relaxing or hosting outdoor gatherings. The master bedroom boasts a luxurious en-suite bathroom with a soaking tub and separate shower, providing a serene retreat at the end of the day. With high-end finishes and attention to detail throughout, this home is sure to impress even the most discerning buyer.",
-    "Neighborhood Description": "Morumbi is a highly sought-after neighborhood known for its upscale homes, lush green spaces, and convenient location. Residents enjoy easy access to top-rated schools, trendy restaurants, shopping centers, and recreational facilities. The area is also well-connected to major highways, making commuting to the city center or other parts of town a breeze. With a strong sense of community and a mix of modern amenities and natural beauty, Morumbi offers the perfect balance of urban convenience and suburban tranquility."
-  },
-  {
-    "Neighborhood": "Morumbi",
-    "Price": "$1,407,000",
-    "Bedrooms": "5",
-    "Bathrooms": "4",
-    "House Size": "1703 sqft",
-    "Description": "This stunning 5-bedroom, 4-bathroom home in Morumbi is a true gem. The property boasts a spacious layout with 1703 sqft of living space, perfect for families or those who love to entertain. The modern kitchen features sleek appliances and ample storage space. The master bedroom includes a luxurious en-suite bathroom with a soaking tub and separate shower. The backyard offers a peaceful oasis with a landscaped garden and patio area, ideal for relaxing or hosting gatherings. With high-end finishes throughout, this home is sure to impress even the most discerning buyers.",
-    "Neighborhood Description": "Morumbi is a prestigious neighborhood known for its upscale homes, tree-lined streets, and proximity to amenities. Residents enjoy easy access to shopping centers, restaurants, parks, and top-rated schools. The area also offers a tranquil atmosphere away from the hustle and bustle of the city, making it a sought-after location for those seeking a peaceful yet convenient lifestyle."
-  },
-  {
-    "Neighborhood": "Itaim Bibi",
-    "Price": "$295,000",
-    "Bedrooms": "2",
-    "Bathrooms": "1",
-    "House Size": "2006 sqft",
-    "Description": "This charming 2-bedroom, 1-bathroom home in the coveted neighborhood of Itaim Bibi offers 2006 sqft of living space. The property features a spacious living room with large windows allowing for natural light to fill the space. The kitchen is equipped with modern appliances and ample counter space, perfect for cooking and entertaining. Both bedrooms are generously sized with closet space for storage. The bathroom boasts a luxurious bathtub and sleek finishes. Additionally, the property includes a private backyard with a patio area, ideal for outdoor dining and relaxation.",
-    "Neighborhood Description": "Itaim Bibi is a trendy and upscale neighborhood in Sao Paulo known for its vibrant nightlife, high-end shopping, and diverse dining options. The area is also home to numerous parks and green spaces, providing residents with opportunities for outdoor recreation and relaxation. With its convenient location and bustling atmosphere, Itaim Bibi is a highly sought-after neighborhood for those looking to experience the best of urban living in Sao Paulo."
-  },
-  {
-    "Neighborhood": "Liberdade",
-    "Price": "$1,492,000",
-    "Bedrooms": "2",
-    "Bathrooms": "1",
-    "House Size": "3241 sqft",
-    "Description": "This stunning property in the vibrant neighborhood of Liberdade offers a unique opportunity for modern city living. The spacious house features 2 bedrooms, 1 bathroom, and a total of 3241 sqft of living space. The open floor plan design allows for plenty of natural light to flow through the home, highlighting the elegant finishes and high-end fixtures. The property also boasts a private outdoor patio, perfect for enjoying morning coffee or evening cocktails.",
-    "Neighborhood Description": "Liberdade is a culturally diverse neighborhood known for its Asian influence and bustling street markets. The area is home to a variety of authentic restaurants, shops, and entertainment venues, making it a popular destination for locals and tourists alike. With easy access to public transportation and a vibrant atmosphere, Liberdade offers a unique and exciting living experience in the heart of the city."
-  },
-  {
-    "Neighborhood": "Moema",
-    "Price": "$889,000",
-    "Bedrooms": "2",
-    "Bathrooms": "4",
-    "House Size": "2963 sqft",
-    "Description": "This stunning property in Moema features 2 bedrooms, 4 bathrooms, and a spacious house size of 2963 sqft. The modern design and high-end finishes throughout the home make it a luxurious retreat. The open concept living area is perfect for entertaining guests, while the large windows offer plenty of natural light. The master bedroom includes an en-suite bathroom with a luxurious soaking tub. Additionally, the property boasts a beautifully landscaped backyard with a patio for outdoor relaxation.",
-    "Neighborhood Description": "Moema is a highly sought-after neighborhood known for its upscale vibe and convenient location. With plenty of shopping, dining, and entertainment options nearby, residents enjoy a vibrant lifestyle. The tree-lined streets and well-maintained parks add to the charm of this desirable area. Moema is also known for its excellent schools and easy access to public transportation, making it an ideal choice for those looking for a mix of luxury and convenience."
-  },
-  {
-    "Neighborhood": "Itaim Bibi",
-    "Price": "$1,048,000",
-    "Bedrooms": "3",
-    "Bathrooms": "3",
-    "House Size": "1502 sqft",
-    "Description": "This stunning property in the sought-after neighborhood of Itaim Bibi features 3 spacious bedrooms, 3 modern bathrooms, and a total of 1502 sqft of living space. The open concept layout allows for seamless flow between the living room, dining area, and gourmet kitchen. The master bedroom boasts a luxurious ensuite bathroom and a walk-in closet. The property also includes a private balcony with city views, perfect for enjoying a morning coffee or evening cocktail.",
-    "Neighborhood Description": "Itaim Bibi is a trendy and upscale neighborhood in S\u00e3o Paulo known for its vibrant nightlife, high-end restaurants, and chic boutiques. It is a popular choice for young professionals and expats due to its convenient location and modern amenities. The neighborhood also offers beautiful parks, fitness centers, and cultural attractions, making it a desirable place to live for those seeking a mix of luxury and convenience."
-  },
-  {
-    "Neighborhood": "Moema",
-    "Price": "$919,000",
+    "Price": "$1,333,000",
     "Bedrooms": "1",
     "Bathrooms": "4",
-    "House Size": "3964 sqft",
-    "Description": "This stunning property in Moema features a spacious 3964 sqft house with 1 bedroom and 4 bathrooms. The modern design and luxurious finishes make this home truly unique. The open concept living area is perfect for entertaining, and the gourmet kitchen is a chef's dream. The large windows allow for plenty of natural light to fill the space, creating a bright and welcoming atmosphere. The master suite is a peaceful retreat with a spa-like ensuite bathroom. The outdoor patio is ideal for al fresco dining and enjoying the beautiful Moema weather.",
-    "Neighborhood Description": "Moema is a vibrant neighborhood in S\u00e3o Paulo known for its upscale shopping, dining, and entertainment options. The tree-lined streets and parks make it a desirable place to live, while the proximity to major highways and public transportation make it easy to navigate the city. Residents of Moema enjoy a high quality of life with access to top-rated schools, cultural attractions, and recreational facilities. Whether you're looking for a peaceful retreat or a lively urban environment, Moema has something for everyone."
+    "House Size": "3123 sqft",
+    "Description": "This luxurious property in the prestigious neighborhood of Jardins offers a unique living experience. The spacious 3123 sqft house features 1 bedroom and 4 bathrooms, providing ample space for comfortable living. The modern design and high-end finishes throughout the home create an elegant and sophisticated atmosphere. The property also includes a private backyard oasis perfect for relaxing or entertaining guests.",
+    "Neighborhood Description": "Jardins is known for its upscale vibe, with tree-lined streets, high-end boutiques, and gourmet restaurants. It is a sought-after neighborhood in the heart of the city, offering a convenient location close to shopping centers, parks, and cultural attractions. Residents of Jardins enjoy a vibrant lifestyle with easy access to all the amenities the city has to offer."
   },
   {
-    "Neighborhood": "Vila Madalena",
-    "Price": "$961,000",
-    "Bedrooms": "4",
-    "Bathrooms": "4",
-    "House Size": "2702 sqft",
-    "Description": "This stunning 4-bedroom, 4-bathroom home in Vila Madalena is a true gem. The spacious house features a modern kitchen with top-of-the-line appliances, a cozy living room with a fireplace, and a luxurious master suite with a spa-like bathroom. The outdoor space is perfect for entertaining with a large patio and a beautifully landscaped backyard. Additionally, the home boasts high ceilings, hardwood floors, and plenty of natural light throughout.",
-    "Neighborhood Description": "Vila Madalena is known for its vibrant arts and culture scene, with numerous galleries, boutiques, and restaurants lining the streets. The neighborhood also offers easy access to parks, schools, and public transportation, making it a highly sought-after location for families and young professionals alike. With its charming atmosphere and convenient amenities, Vila Madalena is the perfect place to call home."
-  },
-  {
-    "Neighborhood": "Itaim Bibi",
-    "Price": "$649,000",
+    "Neighborhood": "Paraiso",
+    "Price": "$928,000",
     "Bedrooms": "3",
-    "Bathrooms": "3",
-    "House Size": "2795 sqft",
-    "Description": "Welcome to this stunning 3-bedroom, 3-bathroom home in the desirable neighborhood of Itaim Bibi. This spacious property boasts 2795 sqft of living space, perfect for a growing family or those who love to entertain. The open concept floor plan features a modern kitchen with high-end appliances, a cozy living room with a fireplace, and a luxurious master suite with a walk-in closet and spa-like bathroom. The property also includes a private backyard oasis with a deck and lush landscaping, ideal for outdoor gatherings or relaxation.",
-    "Neighborhood Description": "Itaim Bibi is a vibrant and upscale neighborhood in S\u00e3o Paulo known for its trendy restaurants, upscale boutiques, and lively nightlife. With tree-lined streets and beautiful parks, Itaim Bibi offers a perfect blend of city living and green spaces. Residents enjoy easy access to top-rated schools, cultural attractions, and convenient public transportation. Don't miss this opportunity to own a piece of luxury in one of S\u00e3o Paulo's most sought-after neighborhoods."
+    "Bathrooms": "2",
+    "House Size": "1952 sqft",
+    "Description": "This charming 3-bedroom, 2-bathroom home in Paraiso is the epitome of modern elegance. The open concept living area boasts high ceilings, large windows allowing for plenty of natural light, and a cozy fireplace perfect for chilly evenings. The kitchen is a chef's dream with stainless steel appliances, granite countertops, and a spacious island for meal prep. The master bedroom features a luxurious en-suite bathroom with a soaking tub and separate shower. The backyard oasis is ideal for entertaining with a patio area, lush landscaping, and a sparkling pool.",
+    "Neighborhood Description": "Paraiso is a highly sought-after neighborhood known for its serene atmosphere and close proximity to top-rated schools, parks, and shopping centers. Residents enjoy easy access to hiking trails, golf courses, and trendy restaurants. With its tree-lined streets and friendly community vibe, Paraiso is the perfect place to call home."
   },
   {
     "Neighborhood": "Bela Vista",
-    "Price": "$1,149,000",
-    "Bedrooms": "3",
+    "Price": "$956,000",
+    "Bedrooms": "1",
+    "Bathrooms": "2",
+    "House Size": "1940 sqft",
+    "Description": "This stunning property in Bela Vista offers a unique opportunity for luxury living in the heart of the city. The spacious 1940 sqft home features 1 bedroom and 2 bathrooms, perfect for a single individual or a couple looking for a sophisticated urban retreat. The open concept layout is ideal for entertaining, with a modern kitchen, high-end finishes, and ample natural light throughout. The property also includes a private balcony with breathtaking views of the city skyline, perfect for enjoying a glass of wine at sunset.",
+    "Neighborhood Description": "Bela Vista is a vibrant neighborhood known for its charming cobblestone streets, historic architecture, and bustling cultural scene. Residents can enjoy a variety of trendy restaurants, boutique shops, and art galleries just steps away from their front door. With easy access to public transportation and major highways, Bela Vista offers the perfect blend of convenience and charm for those looking to experience the best of urban living."
+  },
+  {
+    "Neighborhood": "Bela Vista",
+    "Price": "$1,278,000",
+    "Bedrooms": "5",
+    "Bathrooms": "2",
+    "House Size": "3279 sqft",
+    "Description": "This stunning 5-bedroom, 2-bathroom home in Bela Vista boasts a spacious 3279 sqft of living space. The property features a modern kitchen with stainless steel appliances, a cozy fireplace in the living room, and a beautifully landscaped backyard with a patio perfect for entertaining guests. The master bedroom offers a luxurious en-suite bathroom with a soaking tub and separate shower. With ample natural light throughout the house, this home provides a comfortable and inviting atmosphere for any family.",
+    "Neighborhood Description": "Bela Vista is a sought-after neighborhood known for its tree-lined streets, charming homes, and close proximity to parks, schools, and shopping centers. Residents enjoy a sense of community and convenience, with easy access to public transportation and major highways. The neighborhood is perfect for families looking for a peaceful and family-friendly environment to call home."
+  },
+  {
+    "Neighborhood": "Morumbi",
+    "Price": "$490,000",
+    "Bedrooms": "4",
     "Bathrooms": "4",
-    "House Size": "3054 sqft",
-    "Description": "This stunning 3-bedroom, 4-bathroom home in Bela Vista is a true gem. The house boasts a spacious open floor plan with high ceilings and large windows that flood the space with natural light. The gourmet kitchen features top-of-the-line appliances and a center island, perfect for entertaining guests. The master suite is a luxurious retreat with a spa-like bathroom and a walk-in closet. The backyard oasis offers a covered patio, perfect for al fresco dining, and a beautifully landscaped garden.",
-    "Neighborhood Description": "Bela Vista is a highly sought-after neighborhood known for its tree-lined streets, charming cafes, and proximity to parks and recreational facilities. Residents enjoy easy access to shopping, dining, and entertainment options, as well as excellent schools and convenient transportation links. With its picturesque surroundings and vibrant community atmosphere, Bela Vista is the perfect place to call home."
+    "House Size": "3349 sqft",
+    "Description": "This stunning 4-bedroom, 4-bathroom home in the prestigious Morumbi neighborhood is a true gem. The spacious house boasts 3349 sqft of living space, perfect for a growing family or those who love to entertain. The property features a modern kitchen with high-end appliances, a cozy fireplace in the living room, a luxurious master suite with a spa-like bathroom, and a beautifully landscaped backyard with a patio for outdoor gatherings. The large windows throughout the home bring in plenty of natural light, creating a bright and welcoming atmosphere. With top-of-the-line finishes and attention to detail, this home is a must-see.",
+    "Neighborhood Description": "Morumbi is known for its upscale homes, tree-lined streets, and proximity to amenities such as shopping centers, restaurants, and parks. The neighborhood offers a peaceful and safe environment, making it ideal for families looking for a tranquil place to call home. Morumbi also provides easy access to major highways, making commuting to other parts of the city convenient. With its beautiful surroundings and convenient location, Morumbi is a highly sought-after neighborhood in the city."
+  },
+  {
+    "Neighborhood": "Pinheiros",
+    "Price": "$319,000",
+    "Bedrooms": "1",
+    "Bathrooms": "3",
+    "House Size": "3134 sqft",
+    "Description": "This stunning property in the vibrant Pinheiros neighborhood offers a unique living experience. The spacious house features 1 bedroom and 3 bathrooms, perfect for a single professional or a couple looking for a modern and comfortable living space. The open floor plan and large windows provide ample natural light throughout the 3134 sqft home. The kitchen is equipped with high-end appliances and sleek finishes, ideal for cooking and entertaining. The property also includes a private outdoor patio, perfect for relaxing or hosting guests.",
+    "Neighborhood Description": "Pinheiros is a trendy and lively neighborhood in S\u00e3o Paulo, known for its vibrant cultural scene, eclectic dining options, and bustling nightlife. Residents can enjoy a mix of modern amenities and historic charm, with plenty of parks, boutiques, and art galleries nearby. The neighborhood is well-connected with public transportation options, making it easy to explore the rest of the city. With its unique blend of urban energy and local charm, Pinheiros is a sought-after location for those looking to experience the best of S\u00e3o Paulo living."
+  },
+  {
+    "Neighborhood": "Paraiso",
+    "Price": "$395,000",
+    "Bedrooms": "1",
+    "Bathrooms": "2",
+    "House Size": "3235 sqft",
+    "Description": "This stunning property in Paraiso offers a unique opportunity for luxurious living. The spacious house features 1 bedroom, 2 bathrooms, and a total of 3235 sqft of living space. The interior is beautifully designed with modern finishes and ample natural light. The open concept layout is perfect for entertaining, with a gourmet kitchen, a cozy living room, and a stylish dining area. The master bedroom is a true retreat, complete with a spa-like ensuite bathroom. Additional highlights include a private patio, perfect for enjoying the beautiful surroundings.",
+    "Neighborhood Description": "Paraiso is a highly sought-after neighborhood known for its upscale ambiance and convenient location. Residents enjoy easy access to top-rated restaurants, boutique shops, and entertainment options. The area is also known for its beautiful parks and green spaces, perfect for outdoor activities. With a strong sense of community and a vibrant atmosphere, Paraiso is the perfect place to call home."
+  },
+  {
+    "Neighborhood": "Itaim Bibi",
+    "Price": "$437,000",
+    "Bedrooms": "3",
+    "Bathrooms": "3",
+    "House Size": "1798 sqft",
+    "Description": "This stunning property in the vibrant neighborhood of Itaim Bibi offers a luxurious living experience. The house boasts 3 spacious bedrooms and 3 modern bathrooms, perfect for families or individuals looking for comfort and style. With a generous house size of 1798 sqft, there is plenty of room for entertainment and relaxation. The property features high-end finishes, a gourmet kitchen, and a private patio for outdoor enjoyment.",
+    "Neighborhood Description": "Itaim Bibi is a sought-after neighborhood known for its upscale restaurants, trendy bars, and designer boutiques. With a thriving nightlife scene and proximity to parks and green spaces, Itaim Bibi offers the perfect balance of city living and leisure. Residents can enjoy easy access to public transportation and a variety of amenities, making it a desirable place to call home."
   },
   {
     "Neighborhood": "Brooklin",
-    "Price": "$631,000",
+    "Price": "$1,480,000",
+    "Bedrooms": "3",
+    "Bathrooms": "4",
+    "House Size": "3277 sqft",
+    "Description": "This stunning 3-bedroom, 4-bathroom home in Brooklin is a true gem. The spacious 3277 sqft house features high ceilings, large windows that fill the rooms with natural light, a modern kitchen with top-of-the-line appliances, a cozy fireplace in the living room, and a luxurious master suite with a walk-in closet and en-suite bathroom. The property also boasts a beautifully landscaped backyard with a patio, perfect for outdoor entertaining.",
+    "Neighborhood Description": "Brooklin is a charming and sought-after neighborhood known for its tree-lined streets, family-friendly community, and close proximity to parks, schools, shopping, and dining options. Residents enjoy a peaceful suburban atmosphere while still being conveniently located near major highways for easy commuting to downtown areas. With a strong sense of community and well-maintained properties, Brooklin is the perfect place to call home."
+  },
+  {
+    "Neighborhood": "Morumbi",
+    "Price": "$717,000",
+    "Bedrooms": "5",
+    "Bathrooms": "3",
+    "House Size": "2031 sqft",
+    "Description": "This stunning 5-bedroom, 3-bathroom home in Morumbi is a true gem. With a spacious house size of 2031 sqft, this property offers ample space for a large family or those who love to entertain. The interior features high ceilings, large windows that let in plenty of natural light, and modern finishes throughout. The master bedroom boasts a luxurious en-suite bathroom with a soaking tub and separate shower. The open concept kitchen is equipped with stainless steel appliances and a center island, perfect for preparing meals. Outside, the backyard is a private oasis with a covered patio, perfect for outdoor dining and relaxing.",
+    "Neighborhood Description": "Morumbi is a highly sought-after neighborhood known for its upscale homes, tree-lined streets, and proximity to parks and green spaces. Residents enjoy easy access to shopping centers, restaurants, and top-rated schools. The neighborhood is also conveniently located near major highways, making it easy to commute to other parts of the city. With its tranquil atmosphere and luxury properties, Morumbi is the perfect place to call home."
+  },
+  {
+    "Neighborhood": "Pinheiros",
+    "Price": "$288,000",
+    "Bedrooms": "4",
+    "Bathrooms": "2",
+    "House Size": "1559 sqft",
+    "Description": "This charming 4-bedroom, 2-bathroom home in Pinheiros is perfect for a growing family. The spacious 1559 sqft house features a modern kitchen with stainless steel appliances, a cozy living room with a fireplace, and a backyard patio perfect for entertaining guests. The bedrooms are generously sized with ample natural light, and the bathrooms are elegantly designed with contemporary fixtures. Additionally, the neighborhood offers a vibrant atmosphere with trendy restaurants, boutique shops, and easy access to public transportation.",
+    "Neighborhood Description": "Pinheiros is a sought-after neighborhood in Sao Paulo known for its hip vibe, cultural attractions, and diverse community. It is home to a mix of young professionals, artists, and families, creating a dynamic and lively atmosphere. The area boasts a variety of dining options, from traditional Brazilian cuisine to international fare, as well as boutique stores, art galleries, and music venues. With its tree-lined streets and proximity to parks and green spaces, Pinheiros offers a perfect blend of urban convenience and natural beauty."
+  },
+  {
+    "Neighborhood": "Paraiso",
+    "Price": "$726,000",
+    "Bedrooms": "1",
+    "Bathrooms": "1",
+    "House Size": "1113 sqft",
+    "Description": "This charming 1-bedroom, 1-bathroom home in the desirable Paraiso neighborhood is the perfect blend of modern amenities and classic charm. The open concept layout allows for seamless flow between the spacious living area, gourmet kitchen with stainless steel appliances, and cozy bedroom with ample natural light. The bathroom features a luxurious soaking tub and contemporary fixtures. Additional highlights include hardwood floors, high ceilings, and a private outdoor patio for relaxing or entertaining guests.",
+    "Neighborhood Description": "Paraiso is a vibrant and thriving neighborhood known for its tree-lined streets, trendy cafes, and proximity to parks and recreational facilities. Residents enjoy easy access to shopping centers, restaurants, and cultural attractions, making it a sought-after location for those seeking a dynamic urban lifestyle. With a strong sense of community and a mix of historic and modern architecture, Paraiso offers a unique blend of comfort and convenience for its residents."
+  },
+  {
+    "Neighborhood": "Brooklin",
+    "Price": "$826,000",
+    "Bedrooms": "2",
+    "Bathrooms": "3",
+    "House Size": "3704 sqft",
+    "Description": "This stunning property in the desirable neighborhood of Brooklin offers a spacious layout with 2 bedrooms and 3 bathrooms, perfect for a growing family or those who love to entertain. The house boasts a generous size of 3704 sqft, providing ample space for comfortable living. The modern kitchen features high-end appliances and sleek countertops, while the master bedroom includes a luxurious en-suite bathroom. The property also includes a backyard oasis with a beautiful patio area, ideal for outdoor gatherings and relaxation.",
+    "Neighborhood Description": "Brooklin is a charming and family-friendly neighborhood known for its tree-lined streets, parks, and top-rated schools. Residents enjoy easy access to local shops, restaurants, and recreational facilities, making it a highly sought-after community to call home. With its close proximity to major highways and public transportation, Brooklin offers the perfect balance of convenience and tranquility for its residents."
+  },
+  {
+    "Neighborhood": "Brooklin",
+    "Price": "$1,252,000",
+    "Bedrooms": "1",
+    "Bathrooms": "3",
+    "House Size": "1464 sqft",
+    "Description": "This stunning property in Brooklin features a modern design with high-end finishes throughout. The spacious open concept living area is perfect for entertaining, with a gourmet kitchen equipped with top-of-the-line appliances. The master bedroom boasts a luxurious en-suite bathroom, while the two additional bathrooms offer convenience for guests. The property also includes a private outdoor patio, perfect for enjoying the beautiful Brooklin weather.",
+    "Neighborhood Description": "Brooklin is a highly sought-after neighborhood known for its charming streets lined with historic homes and tree-lined avenues. Residents enjoy easy access to local shops, restaurants, and parks, creating a vibrant community atmosphere. With excellent schools and convenient transportation options, Brooklin offers the perfect balance of suburban tranquility and urban convenience."
+  },
+  {
+    "Neighborhood": "Bela Vista",
+    "Price": "$1,313,000",
+    "Bedrooms": "5",
+    "Bathrooms": "3",
+    "House Size": "3210 sqft",
+    "Description": "This stunning 5-bedroom, 3-bathroom home in Bela Vista offers luxurious living in a prestigious neighborhood. The spacious 3210 sqft house features a modern open floor plan, high ceilings, and large windows that flood the space with natural light. The gourmet kitchen is equipped with top-of-the-line appliances, granite countertops, and a center island for entertaining. The master suite boasts a walk-in closet and a spa-like bathroom with a soaking tub and dual vanities. Outside, the backyard oasis includes a covered patio, perfect for alfresco dining, and a lush landscaped garden.",
+    "Neighborhood Description": "Bela Vista is a highly sought-after neighborhood known for its tree-lined streets, upscale homes, and proximity to top-rated schools, parks, and shopping centers. Residents enjoy a sense of community, safety, and convenience, making it an ideal place to call home. With easy access to major highways and public transportation, Bela Vista offers the perfect balance of suburban tranquility and urban convenience."
+  },
+  {
+    "Neighborhood": "Moema",
+    "Price": "$746,000",
+    "Bedrooms": "3",
+    "Bathrooms": "3",
+    "House Size": "1466 sqft",
+    "Description": "This stunning property in Moema features 3 spacious bedrooms, each with its own en-suite bathroom. The house boasts a modern design with high-end finishes, a gourmet kitchen, and a cozy living room perfect for entertaining guests. The large windows allow for plenty of natural light to fill the space, creating a bright and inviting atmosphere. Additionally, the property includes a private backyard oasis, ideal for relaxing outdoors.",
+    "Neighborhood Description": "Moema is a highly sought-after neighborhood in Sao Paulo known for its upscale residential feel, trendy restaurants, and upscale shopping options. The area is well-connected with easy access to public transportation and major highways, making it a convenient location for those looking to commute to the city center. Moema also offers plenty of green spaces and parks, perfect for outdoor activities and leisurely strolls. With a vibrant community and a variety of amenities nearby, Moema is an ideal place to call home."
+  },
+  {
+    "Neighborhood": "Brooklin",
+    "Price": "$1,194,000",
+    "Bedrooms": "3",
+    "Bathrooms": "4",
+    "House Size": "1381 sqft",
+    "Description": "This stunning 3 bedroom, 4 bathroom home in Brooklin is a rare find. The house boasts a spacious open concept layout with high ceilings, large windows that fill the home with natural light, and beautiful hardwood floors throughout. The kitchen features modern appliances, granite countertops, and plenty of cabinet space. The master bedroom includes a walk-in closet and ensuite bathroom with a luxurious soaking tub. The backyard is perfect for entertaining with a patio area and lush landscaping.",
+    "Neighborhood Description": "Brooklin is a charming and family-friendly neighborhood located in the heart of the city. It offers a mix of residential streets and trendy shops and restaurants. Residents enjoy easy access to parks, schools, and public transportation. With a strong sense of community and a convenient location, Brooklin is the perfect place to call home."
+  },
+  {
+    "Neighborhood": "Morumbi",
+    "Price": "$1,177,000",
+    "Bedrooms": "5",
+    "Bathrooms": "4",
+    "House Size": "3317 sqft",
+    "Description": "This stunning 5-bedroom, 4-bathroom home in Morumbi offers a spacious living area of 3317 sqft. The property features a modern kitchen with high-end appliances, a large master suite with a walk-in closet, a cozy fireplace in the living room, and a beautifully landscaped backyard with a patio perfect for entertaining. The home also boasts high ceilings, hardwood floors, and plenty of natural light throughout.",
+    "Neighborhood Description": "Morumbi is a prestigious neighborhood located in the southern part of S\u00e3o Paulo, Brazil. Known for its upscale homes, lush greenery, and proximity to parks and shopping centers, Morumbi offers a tranquil and luxurious lifestyle. Residents can enjoy top-rated schools, fine dining restaurants, and easy access to major highways for convenient commuting. With its beautiful surroundings and high-end amenities, Morumbi is a highly sought-after neighborhood for those seeking a sophisticated living experience."
+  },
+  {
+    "Neighborhood": "Pinheiros",
+    "Price": "$1,378,000",
     "Bedrooms": "3",
     "Bathrooms": "2",
-    "House Size": "1706 sqft",
-    "Description": "This charming 3-bedroom, 2-bathroom home in Brooklin is a perfect blend of modern amenities and classic charm. The open concept living area is spacious and filled with natural light, creating a welcoming atmosphere for family gatherings or entertaining guests. The kitchen features stainless steel appliances, granite countertops, and ample storage space. The master bedroom boasts a luxurious en-suite bathroom with a soaking tub and separate shower. Outside, the backyard offers a peaceful retreat with a deck for outdoor dining and a lush green lawn for relaxation. This home is truly a gem in the heart of Brooklin.",
-    "Neighborhood Description": "Brooklin is a highly sought-after neighborhood known for its tree-lined streets, friendly community atmosphere, and convenient access to amenities. Residents enjoy nearby parks, shopping centers, restaurants, and top-rated schools. With easy access to major highways and public transportation, commuting to downtown or other parts of the city is a breeze. Brooklin offers the perfect balance of suburban tranquility and urban convenience, making it an ideal place to call home."
+    "House Size": "1651 sqft",
+    "Description": "This stunning property in the sought-after neighborhood of Pinheiros offers a perfect blend of modern living and convenience. The spacious 1651 sqft house features 3 bedrooms, 2 bathrooms, and a well-designed layout that maximizes natural light. The open concept kitchen is equipped with high-end appliances and a large island, perfect for entertaining. The master bedroom boasts a walk-in closet and en-suite bathroom with a luxurious soaking tub. Outside, the private backyard oasis is ideal for relaxing or hosting gatherings. Additional highlights include hardwood floors, high ceilings, and ample storage space throughout the home.",
+    "Neighborhood Description": "Pinheiros is a vibrant and trendy neighborhood known for its eclectic mix of boutiques, cafes, and art galleries. Residents enjoy easy access to parks, bike paths, and the bustling Pinheiros Market. The area is also a hub for cultural events and live music venues, making it a popular choice for young professionals and families alike. With excellent public transportation options and a variety of dining options, Pinheiros offers the perfect balance of urban convenience and a relaxed, bohemian atmosphere."
   },
   {
-    "Neighborhood": "Vila Madalena",
-    "Price": "$494,000",
+    "Neighborhood": "Morumbi",
+    "Price": "$1,003,000",
+    "Bedrooms": "4",
+    "Bathrooms": "3",
+    "House Size": "3304 sqft",
+    "Description": "This stunning property in Morumbi features 4 spacious bedrooms, 3 modern bathrooms, and a generous house size of 3304 sqft. The house boasts a sleek and contemporary design with high-end finishes throughout. The open concept living area is perfect for entertaining, while the gourmet kitchen is a chef's dream with top-of-the-line appliances. The master suite offers a peaceful retreat with a luxurious en-suite bathroom. Outside, the backyard oasis includes a beautifully landscaped garden and a relaxing patio for al fresco dining.",
+    "Neighborhood Description": "Morumbi is a prestigious neighborhood known for its upscale homes, lush greenery, and proximity to top schools, shopping centers, and recreational facilities. Residents enjoy a peaceful and secure environment with easy access to major transportation routes, making it a highly sought-after location for families and professionals alike."
+  },
+  {
+    "Neighborhood": "Brooklin",
+    "Price": "$739,000",
+    "Bedrooms": "3",
+    "Bathrooms": "2",
+    "House Size": "3284 sqft",
+    "Description": "This stunning property in Brooklin features a spacious layout with 3 bedrooms, 2 bathrooms, and a total of 3284 sqft of living space. The house boasts modern finishes, a gourmet kitchen with stainless steel appliances, a cozy fireplace in the living room, and a beautiful backyard perfect for entertaining. The master bedroom includes a luxurious en-suite bathroom with a soaking tub and walk-in shower. Additionally, the property offers a two-car garage and is located in a desirable neighborhood with easy access to amenities.",
+    "Neighborhood Description": "Brooklin is a charming neighborhood known for its tree-lined streets, friendly community atmosphere, and convenient location. Residents can enjoy nearby parks, schools, shopping centers, and dining options. With easy access to major highways, commuting to surrounding areas is a breeze. Brooklin offers a suburban feel with all the conveniences of city living, making it an ideal place to call home."
+  },
+  {
+    "Neighborhood": "Morumbi",
+    "Price": "$351,000",
     "Bedrooms": "4",
     "Bathrooms": "1",
-    "House Size": "1761 sqft",
-    "Description": "This charming 4-bedroom, 1-bathroom home in Vila Madalena is a rare find in this sought-after neighborhood. The property boasts a spacious living room with large windows that let in plenty of natural light, a modern kitchen with stainless steel appliances, and a cozy backyard perfect for outdoor entertaining. The bedrooms are generously sized and offer ample closet space, while the bathroom features a luxurious soaking tub. With a total of 1761 sqft of living space, this home is perfect for a growing family or those who love to host guests.",
-    "Neighborhood Description": "Vila Madalena is known for its vibrant arts and culture scene, trendy boutiques, and eclectic dining options. The neighborhood is also home to beautiful parks and green spaces, making it ideal for outdoor enthusiasts. With its convenient location and lively atmosphere, Vila Madalena is a highly desirable place to live in S\u00e3o Paulo."
+    "House Size": "2423 sqft",
+    "Description": "This beautiful 4-bedroom home in Morumbi is perfect for a growing family. The spacious house boasts 2423 sqft of living space, with a cozy living room, a modern kitchen, and a backyard perfect for entertaining. The bedrooms are large and filled with natural light, providing a peaceful retreat at the end of the day. The property also features a garage for convenient parking and storage.",
+    "Neighborhood Description": "Morumbi is a sought-after neighborhood in the heart of the city. Known for its tree-lined streets, family-friendly atmosphere, and proximity to top-rated schools, Morumbi offers a perfect blend of urban convenience and suburban tranquility. Residents enjoy easy access to parks, shopping centers, and restaurants, making it a desirable place to call home."
   },
   {
-    "Neighborhood": "Vila Madalena",
-    "Price": "$572,000",
+    "Neighborhood": "Jardins",
+    "Price": "$373,000",
+    "Bedrooms": "5",
+    "Bathrooms": "1",
+    "House Size": "2070 sqft",
+    "Description": "This beautiful 5-bedroom home in the sought-after neighborhood of Jardins is a rare find. The spacious house boasts 2070 sqft of living space, perfect for a growing family or those who love to entertain. The property features a modern kitchen with stainless steel appliances, a cozy living room with a fireplace, and a backyard oasis with a lush garden and patio area. The bedrooms are generously sized, offering ample space for relaxation and privacy. With its prime location and impressive features, this home is a true gem in the heart of Jardins.",
+    "Neighborhood Description": "Jardins is known for its upscale ambiance, tree-lined streets, and proximity to trendy shops, restaurants, and cafes. This vibrant neighborhood offers a mix of urban convenience and suburban tranquility, making it a popular choice for young professionals and families alike. Residents enjoy easy access to parks, schools, and public transportation, making Jardins a highly desirable place to call home."
+  },
+  {
+    "Neighborhood": "Bela Vista",
+    "Price": "$732,000",
     "Bedrooms": "4",
+    "Bathrooms": "3",
+    "House Size": "3414 sqft",
+    "Description": "This stunning 4-bedroom, 3-bathroom home in Bela Vista boasts a spacious 3414 sqft of living space. The property features a modern open floor plan, high ceilings, hardwood floors, and large windows that flood the home with natural light. The gourmet kitchen is equipped with stainless steel appliances, granite countertops, and a large island, perfect for entertaining. The master suite includes a walk-in closet and a luxurious en-suite bathroom with a soaking tub and separate shower. The backyard offers a private oasis with a patio, perfect for outdoor dining and relaxation.",
+    "Neighborhood Description": "Bela Vista is a highly sought-after neighborhood known for its tree-lined streets, beautiful parks, and close proximity to top-rated schools, shopping, dining, and entertainment options. Residents enjoy a sense of community and a high quality of life in this peaceful and family-friendly neighborhood. With easy access to major highways and public transportation, Bela Vista offers the perfect balance of suburban living and urban convenience."
+  },
+  {
+    "Neighborhood": "Moema",
+    "Price": "$1,290,000",
+    "Bedrooms": "3",
+    "Bathrooms": "3",
+    "House Size": "2165 sqft",
+    "Description": "This stunning property in Moema offers a luxurious living experience with 3 spacious bedrooms and 3 modern bathrooms. The house boasts a generous size of 2165 sqft, providing ample space for comfortable living. The interior features high-end finishes, a gourmet kitchen, and a cozy living area perfect for entertaining guests. The property also includes a beautiful backyard with a landscaped garden and a relaxing outdoor patio.",
+    "Neighborhood Description": "Moema is a prestigious neighborhood known for its upscale residential buildings, fine dining restaurants, and trendy boutiques. The area offers a vibrant lifestyle with plenty of parks, sports facilities, and cultural attractions nearby. Residents can enjoy easy access to shopping centers, schools, and public transportation, making it a highly sought-after location for those seeking a sophisticated urban living experience."
+  },
+  {
+    "Neighborhood": "Morumbi",
+    "Price": "$449,000",
+    "Bedrooms": "1",
+    "Bathrooms": "1",
+    "House Size": "2764 sqft",
+    "Description": "This stunning 1-bedroom, 1-bathroom property in Morumbi offers a spacious living space of 2764 sqft. The modern design and high-end finishes make this home a true gem. The open concept layout allows for seamless flow between the living room, dining area, and kitchen. The bedroom is generously sized with ample closet space. The bathroom features luxurious fixtures and a sleek design. The property also includes a private outdoor patio, perfect for relaxing or entertaining guests.",
+    "Neighborhood Description": "Morumbi is a prestigious neighborhood known for its upscale homes, lush greenery, and convenient location. Residents enjoy easy access to top-rated schools, trendy restaurants, shopping centers, and recreational facilities. The neighborhood offers a peaceful and safe environment, making it ideal for families and professionals alike. With its beautiful surroundings and proximity to amenities, Morumbi is a highly desirable place to call home."
+  },
+  {
+    "Neighborhood": "Pinheiros",
+    "Price": "$760,000",
+    "Bedrooms": "2",
+    "Bathrooms": "2",
+    "House Size": "2000 sqft",
+    "Description": "This stunning property in the vibrant Pinheiros neighborhood offers a modern and spacious living space perfect for urban dwellers. The house features 2 bedrooms, 2 bathrooms, and a generous 2000 sqft of living space. The open floor plan, high ceilings, and large windows create a bright and airy atmosphere. The kitchen is equipped with high-end appliances and sleek finishes, perfect for cooking and entertaining. The master bedroom boasts a luxurious en-suite bathroom with a soaking tub and separate shower. A private outdoor patio provides a tranquil retreat in the heart of the city.",
+    "Neighborhood Description": "Pinheiros is known for its trendy restaurants, boutiques, and cultural attractions. The neighborhood is a hub for arts and entertainment, with galleries, theaters, and live music venues just steps away. Residents can enjoy strolling along tree-lined streets, exploring local markets, and dining at acclaimed restaurants. With easy access to public transportation and major highways, Pinheiros offers a convenient location for commuting throughout the city. Experience the best of urban living in this sought-after neighborhood."
+  },
+  {
+    "Neighborhood": "Brooklin",
+    "Price": "$962,000",
+    "Bedrooms": "4",
+    "Bathrooms": "1",
+    "House Size": "2953 sqft",
+    "Description": "This stunning 4-bedroom, 1-bathroom home in the desirable neighborhood of Brooklin offers a spacious living area of 2953 sqft. The property features a modern kitchen with stainless steel appliances, a cozy fireplace in the living room, and a beautifully landscaped backyard perfect for entertaining. The master bedroom boasts a walk-in closet and en-suite bathroom, while the other bedrooms are generously sized. With hardwood floors throughout and plenty of natural light, this home is perfect for families looking for comfort and style.",
+    "Neighborhood Description": "Brooklin is a charming and family-friendly neighborhood known for its tree-lined streets, local parks, and excellent schools. Residents enjoy easy access to shopping centers, restaurants, and recreational facilities, making it a highly sought-after area for those looking to settle down. With a strong sense of community and convenient amenities, Brooklin offers a peaceful suburban lifestyle while still being close to the city."
+  },
+  {
+    "Neighborhood": "Itaim Bibi",
+    "Price": "$1,373,000",
+    "Bedrooms": "1",
+    "Bathrooms": "4",
+    "House Size": "2872 sqft",
+    "Description": "This luxurious property in Itaim Bibi offers a unique blend of modern amenities and elegant design. The spacious 2872 sqft house features 1 bedroom and 4 bathrooms, perfect for those who appreciate upscale living. The property boasts high-end finishes, a gourmet kitchen, a private balcony with stunning views, and ample natural light throughout. With a prime location in Itaim Bibi, this home is ideal for those seeking a sophisticated urban lifestyle.",
+    "Neighborhood Description": "Itaim Bibi is a sought-after neighborhood in Sao Paulo known for its upscale restaurants, trendy bars, and vibrant nightlife. The area is also home to high-end boutiques, art galleries, and green spaces, making it a desirable location for residents looking for a mix of luxury and convenience. With easy access to transportation, shopping, and entertainment options, Itaim Bibi offers the perfect balance of urban living and modern amenities."
+  },
+  {
+    "Neighborhood": "Morumbi",
+    "Price": "$937,000",
+    "Bedrooms": "3",
+    "Bathrooms": "3",
+    "House Size": "3566 sqft",
+    "Description": "This stunning property in Morumbi offers luxurious living with 3 spacious bedrooms and 3 modern bathrooms. The house boasts a generous size of 3566 sqft, providing ample space for comfortable living. The interior features high-end finishes, a gourmet kitchen, and a beautiful backyard perfect for entertaining. With a prime location and elegant design, this home is a true gem in the prestigious Morumbi neighborhood.",
+    "Neighborhood Description": "Morumbi is a sought-after neighborhood known for its upscale living and convenient location. Residents enjoy easy access to shopping centers, restaurants, and top-rated schools. The area is surrounded by lush greenery and offers a peaceful atmosphere away from the hustle and bustle of the city. Morumbi is perfect for those seeking a luxurious lifestyle in a tranquil setting."
+  },
+  {
+    "Neighborhood": "Morumbi",
+    "Price": "$800,000",
+    "Bedrooms": "2",
+    "Bathrooms": "3",
+    "House Size": "1017 sqft",
+    "Description": "This stunning property in Morumbi offers a luxurious living experience with 2 bedrooms, 3 bathrooms, and a spacious house size of 1017 sqft. The modern design and high-end finishes make this home a true gem. The open concept living area is perfect for entertaining, while the master suite provides a peaceful retreat. The property also features a beautiful backyard with a patio, perfect for enjoying the outdoors.",
+    "Neighborhood Description": "Morumbi is a prestigious neighborhood in S\u00e3o Paulo known for its upscale residential properties, lush green spaces, and proximity to shopping and dining options. Residents enjoy a high standard of living with easy access to amenities such as shopping centers, restaurants, and schools. The neighborhood is also known for its safety and tranquility, making it an ideal place to call home."
+  },
+  {
+    "Neighborhood": "Bela Vista",
+    "Price": "$289,000",
+    "Bedrooms": "5",
+    "Bathrooms": "2",
+    "House Size": "2402 sqft",
+    "Description": "Welcome to this spacious 5 bedroom, 2 bathroom home in the desirable Bela Vista neighborhood. This charming property features a large living area with plenty of natural light, a modern kitchen with stainless steel appliances, and a cozy backyard perfect for outdoor entertaining. The master bedroom boasts a walk-in closet and en-suite bathroom for added convenience. With a total of 2402 sqft, there is ample room for a growing family or hosting guests. Don't miss out on the opportunity to make this house your new home!",
+    "Neighborhood Description": "Bela Vista is a vibrant community known for its tree-lined streets, friendly neighbors, and close proximity to parks, schools, and shopping centers. Residents enjoy a peaceful suburban setting while still being just a short drive away from the bustling city center. With a strong sense of community and a variety of amenities nearby, Bela Vista offers the perfect balance of tranquility and convenience."
+  },
+  {
+    "Neighborhood": "Bela Vista",
+    "Price": "$833,000",
+    "Bedrooms": "5",
+    "Bathrooms": "4",
+    "House Size": "3282 sqft",
+    "Description": "This stunning 5-bedroom, 4-bathroom home in Bela Vista is a true gem. Boasting a spacious 3282 sqft of living space, this property offers ample room for a growing family or those who love to entertain. The open concept layout features a gourmet kitchen with high-end appliances, a cozy fireplace in the living room, and a luxurious master suite with a spa-like bathroom. The backyard is perfect for outdoor gatherings with a large patio and lush landscaping.",
+    "Neighborhood Description": "Bela Vista is a highly sought-after neighborhood known for its tree-lined streets, vibrant community atmosphere, and proximity to top-rated schools, parks, and shopping centers. Residents enjoy easy access to hiking trails, fine dining options, and cultural attractions, making it a desirable place to call home. Don't miss out on the opportunity to own a piece of paradise in Bela Vista."
+  },
+  {
+    "Neighborhood": "Moema",
+    "Price": "$1,147,000",
+    "Bedrooms": "1",
     "Bathrooms": "3",
     "House Size": "1332 sqft",
-    "Description": "This charming 4-bedroom, 3-bathroom home in Vila Madalena is a must-see! The spacious house features a modern open-concept layout, perfect for entertaining guests. The kitchen is equipped with stainless steel appliances and granite countertops. The master bedroom includes a walk-in closet and en-suite bathroom with a luxurious soaking tub. Outside, the backyard offers a private oasis with a patio and lush landscaping. This home is ideal for families looking for a comfortable and stylish living space in a vibrant neighborhood.",
-    "Neighborhood Description": "Vila Madalena is known for its trendy atmosphere, lively street art, and vibrant nightlife. The neighborhood is filled with art galleries, boutiques, cafes, and restaurants, making it a popular destination for young professionals and creatives. Residents enjoy easy access to public transportation, parks, and cultural attractions. Vila Madalena is a dynamic and eclectic neighborhood with a strong sense of community."
-  },
-  {
-    "Neighborhood": "Brooklin",
-    "Price": "$636,000",
-    "Bedrooms": "3",
-    "Bathrooms": "1",
-    "House Size": "3238 sqft",
-    "Description": "This charming 3-bedroom, 1-bathroom home in Brooklin is the perfect blend of modern updates and classic charm. The spacious 3238 sqft house features a beautifully renovated kitchen with stainless steel appliances, a cozy living room with a fireplace, and a sunlit dining area overlooking the backyard. The bedrooms are generously sized and offer ample closet space. The backyard is perfect for entertaining with a large patio and lush greenery. This home is ideal for families looking for a peaceful retreat in a sought-after neighborhood.",
-    "Neighborhood Description": "Brooklin is a picturesque neighborhood known for its tree-lined streets, historic homes, and friendly community atmosphere. Residents enjoy easy access to local shops, restaurants, parks, and top-rated schools. With its small-town charm and close proximity to urban amenities, Brooklin offers the perfect balance of suburban living and city convenience. Don't miss the opportunity to call this desirable neighborhood home."
-  },
-  {
-    "Neighborhood": "Paraiso",
-    "Price": "$1,007,000",
-    "Bedrooms": "4",
-    "Bathrooms": "3",
-    "House Size": "1230 sqft",
-    "Description": "This stunning 4-bedroom, 3-bathroom home in the desirable Paraiso neighborhood is a true gem. With a spacious 1230 sqft layout, this property offers ample living space for a growing family. The open concept kitchen and living area is perfect for entertaining guests, while the master bedroom with en-suite bathroom provides a private retreat. The backyard features a beautifully landscaped garden, ideal for outdoor gatherings and relaxation.",
-    "Neighborhood Description": "Paraiso is a sought-after residential area known for its family-friendly atmosphere and convenient location. Residents enjoy easy access to parks, schools, shopping centers, and restaurants, making it a great place to call home. With tree-lined streets and a strong sense of community, Paraiso offers a peaceful and welcoming environment for homeowners."
-  },
-  {
-    "Neighborhood": "Itaim Bibi",
-    "Price": "$1,361,000",
-    "Bedrooms": "5",
-    "Bathrooms": "3",
-    "House Size": "2779 sqft",
-    "Description": "This stunning 5-bedroom, 3-bathroom home in Itaim Bibi is a true gem. With a spacious 2779 sqft of living space, this property offers ample room for a growing family or those who love to entertain. The open floor plan seamlessly connects the living room, dining area, and kitchen, creating a perfect space for gatherings. The master bedroom features a large en-suite bathroom and walk-in closet, providing a luxurious retreat. The backyard oasis includes a beautifully landscaped garden and a patio, perfect for enjoying the sunny days with friends and family. This home also boasts high-end finishes and modern amenities throughout, making it the perfect blend of comfort and style.",
-    "Neighborhood Description": "Itaim Bibi is a trendy and upscale neighborhood in S\u00e3o Paulo, known for its vibrant nightlife, high-end shopping, and culinary scene. With a mix of modern skyscrapers and charming residential streets, Itaim Bibi offers a unique blend of urban convenience and a relaxed atmosphere. Residents can enjoy a variety of restaurants, cafes, and boutiques within walking distance, as well as easy access to parks and recreational areas. The neighborhood is also well-connected to public transportation, making it easy to explore the rest of the city. Itaim Bibi is a sought-after location for those looking for a luxurious lifestyle in the heart of S\u00e3o Paulo."
-  },
-  {
-    "Neighborhood": "Morumbi",
-    "Price": "$1,270,000",
-    "Bedrooms": "1",
-    "Bathrooms": "4",
-    "House Size": "3389 sqft",
-    "Description": "This luxurious property in Morumbi offers a unique living experience with its spacious layout and modern design. The house features 1 bedroom, 4 bathrooms, and a total of 3389 sqft of living space. The open floor plan allows for plenty of natural light to flow throughout the home, creating a bright and inviting atmosphere. The sleek kitchen is equipped with high-end appliances and ample storage space. The master bedroom boasts a large ensuite bathroom with a luxurious soaking tub. The outdoor area includes a beautifully landscaped garden and a covered patio, perfect for entertaining guests or simply enjoying the serene surroundings.",
-    "Neighborhood Description": "Morumbi is a prestigious residential neighborhood in Sao Paulo known for its upscale homes, lush greenery, and convenient location. Residents enjoy easy access to shopping centers, restaurants, and top-rated schools. The area is also home to several parks and recreational facilities, making it ideal for those who enjoy an active lifestyle. With its tree-lined streets and tranquil atmosphere, Morumbi offers a peaceful retreat from the hustle and bustle of the city."
-  },
-  {
-    "Neighborhood": "Morumbi",
-    "Price": "$505,000",
-    "Bedrooms": "2",
-    "Bathrooms": "1",
-    "House Size": "955 sqft",
-    "Description": "This charming 2-bedroom, 1-bathroom home in the desirable Morumbi neighborhood is perfect for those looking for a cozy and inviting space. The open concept layout and large windows allow for plenty of natural light to fill the 955 sqft interior. The kitchen features modern appliances and ample storage space. The bedrooms are spacious and offer peaceful retreats at the end of the day. The backyard provides a private oasis with a patio area for outdoor entertaining.",
-    "Neighborhood Description": "Morumbi is a sought-after neighborhood known for its tree-lined streets, upscale homes, and proximity to parks and shopping centers. Residents enjoy a peaceful atmosphere while still being conveniently located near restaurants, schools, and public transportation options. With its family-friendly environment and beautiful surroundings, Morumbi is a highly desirable place to call home."
-  },
-  {
-    "Neighborhood": "Moema",
-    "Price": "$1,483,000",
-    "Bedrooms": "5",
-    "Bathrooms": "4",
-    "House Size": "1265 sqft",
-    "Description": "This stunning 5-bedroom, 4-bathroom home in Moema is a true gem. The spacious house size of 1265 sqft offers ample space for comfortable living. The property features a modern kitchen with high-end appliances, a cozy living room with a fireplace, a luxurious master bedroom with an en-suite bathroom, and a beautiful backyard perfect for outdoor entertaining. With stylish finishes and attention to detail throughout, this home is perfect for those who appreciate both comfort and elegance.",
-    "Neighborhood Description": "Moema is a sought-after neighborhood known for its upscale residential areas, trendy restaurants, and vibrant nightlife. With tree-lined streets, parks, and easy access to shopping centers, Moema offers a high quality of life for its residents. The neighborhood is also conveniently located near major roads, making it easy to commute to other parts of the city. Moema is a perfect blend of urban convenience and peaceful residential living."
-  },
-  {
-    "Neighborhood": "Bela Vista",
-    "Price": "$733,000",
-    "Bedrooms": "4",
-    "Bathrooms": "2",
-    "House Size": "1386 sqft",
-    "Description": "This stunning 4-bedroom, 2-bathroom home in Bela Vista is a true gem. Boasting a spacious 1386 sqft of living space, this property features a modern open concept layout perfect for entertaining. The kitchen is equipped with stainless steel appliances and granite countertops, while the master bedroom offers a luxurious en-suite bathroom. The backyard oasis includes a large patio and lush landscaping, ideal for outdoor gatherings. With its prime location and contemporary design, this home is truly a must-see!",
-    "Neighborhood Description": "Bela Vista is a highly sought-after neighborhood known for its upscale homes and convenient location. Situated near top-rated schools, parks, shopping centers, and dining options, residents enjoy easy access to everything the area has to offer. The tree-lined streets and friendly community make Bela Vista a perfect place to call home."
-  },
-  {
-    "Neighborhood": "Brooklin",
-    "Price": "$1,404,000",
-    "Bedrooms": "3",
-    "Bathrooms": "2",
-    "House Size": "1171 sqft",
-    "Description": "Welcome to this charming 3-bedroom, 2-bathroom home in the sought-after neighborhood of Brooklin. This property features a spacious open concept layout with modern finishes throughout. The kitchen boasts stainless steel appliances, granite countertops, and a large island perfect for entertaining. The master bedroom includes a walk-in closet and ensuite bathroom with a luxurious soaking tub. Outside, you'll find a beautifully landscaped backyard with a patio area ideal for summer BBQs.",
-    "Neighborhood Description": "Brooklin is a peaceful and family-friendly neighborhood known for its tree-lined streets, parks, and top-rated schools. Residents enjoy easy access to local shops, restaurants, and community events. With close proximity to highways and public transportation, commuting to downtown is a breeze. Don't miss this opportunity to own a home in this desirable community."
-  },
-  {
-    "Neighborhood": "Paraiso",
-    "Price": "$1,295,000",
-    "Bedrooms": "3",
-    "Bathrooms": "2",
-    "House Size": "1782 sqft",
-    "Description": "This stunning property in Paraiso offers a luxurious living experience with 3 spacious bedrooms, 2 beautifully designed bathrooms, and a total of 1782 sqft of living space. The open concept floor plan allows for seamless flow between the living room, dining area, and gourmet kitchen with high-end appliances and custom cabinetry. The master suite boasts a walk-in closet and a spa-like ensuite bathroom. Outside, the backyard oasis features a private patio, perfect for outdoor entertaining.",
-    "Neighborhood Description": "Paraiso is a prestigious neighborhood known for its upscale homes, tree-lined streets, and proximity to top-rated schools, shopping, and dining options. Residents enjoy easy access to parks, golf courses, and recreational facilities, making it an ideal location for families and professionals alike. With its blend of tranquility and convenience, Paraiso offers a truly exceptional living experience."
-  },
-  {
-    "Neighborhood": "Paraiso",
-    "Price": "$961,000",
-    "Bedrooms": "3",
-    "Bathrooms": "3",
-    "House Size": "2821 sqft",
-    "Description": "This stunning property in the Paraiso neighborhood offers luxurious living with 3 spacious bedrooms and 3 modern bathrooms. The house size of 2821 sqft provides ample space for comfortable living and entertaining. The interior features high-end finishes, a gourmet kitchen, and a cozy fireplace. The outdoor space includes a beautifully landscaped backyard with a patio perfect for enjoying the sunny days.",
-    "Neighborhood Description": "Paraiso is a highly sought-after neighborhood known for its upscale living and convenient location. Residents enjoy easy access to top-rated schools, trendy restaurants, and boutique shops. The neighborhood is also known for its lush greenery and peaceful atmosphere, making it the perfect place to call home."
-  },
-  {
-    "Neighborhood": "Moema",
-    "Price": "$286,000",
-    "Bedrooms": "5",
-    "Bathrooms": "3",
-    "House Size": "1641 sqft",
-    "Description": "This stunning 5-bedroom, 3-bathroom home in Moema is the perfect blend of modern luxury and comfort. The spacious house size of 1641 sqft provides ample room for a large family or for entertaining guests. The property features a beautifully designed kitchen with high-end appliances, a cozy living room with a fireplace, and a master suite with a luxurious en-suite bathroom. The backyard is perfect for outdoor gatherings with a landscaped garden and a patio area.",
-    "Neighborhood Description": "Moema is a highly sought-after neighborhood known for its upscale residential properties, tree-lined streets, and proximity to parks and shopping centers. The area offers a vibrant community atmosphere with plenty of dining and entertainment options nearby. Residents of Moema enjoy a high quality of life with easy access to public transportation and top-rated schools."
-  },
-  {
-    "Neighborhood": "Moema",
-    "Price": "$866,000",
-    "Bedrooms": "2",
-    "Bathrooms": "1",
-    "House Size": "1245 sqft",
-    "Description": "This charming 2-bedroom, 1-bathroom home in Moema offers a cozy atmosphere with a spacious layout spanning 1245 sqft. The property features a modern kitchen with stainless steel appliances, a comfortable living room with large windows letting in plenty of natural light, and a backyard perfect for outdoor entertaining. Additionally, the master bedroom boasts a walk-in closet for ample storage space.",
-    "Neighborhood Description": "Moema is a sought-after residential neighborhood in S\u00e3o Paulo known for its tree-lined streets, upscale restaurants, and lively nightlife. Residents enjoy easy access to shopping centers, parks, and cultural attractions, making it a desirable area for those seeking a vibrant urban lifestyle. With excellent schools and public transportation options nearby, Moema is an ideal location for families and young professionals alike."
-  },
-  {
-    "Neighborhood": "Brooklin",
-    "Price": "$411,000",
-    "Bedrooms": "4",
-    "Bathrooms": "1",
-    "House Size": "947 sqft",
-    "Description": "This charming 4-bedroom, 1-bathroom home in the desirable Brooklin neighborhood is perfect for a growing family. The house features a spacious living area with plenty of natural light, a cozy kitchen with modern appliances, and a backyard ideal for outdoor entertaining. The bedrooms are all generously sized, offering plenty of space for relaxation and privacy. With a total of 947 sqft, this home provides a comfortable and inviting living space for its new owners.",
-    "Neighborhood Description": "Brooklin is a vibrant and family-friendly neighborhood known for its tree-lined streets, friendly community atmosphere, and top-rated schools. Residents enjoy easy access to parks, shopping centers, and restaurants, making it a convenient and enjoyable place to call home. With its close proximity to major highways and public transportation, Brooklin offers the perfect balance of suburban tranquility and urban convenience."
+    "Description": "This stunning property in Moema offers a luxurious living experience with modern design and high-end finishes. The spacious 1332 sqft house features 1 bedroom and 3 bathrooms, perfect for those who appreciate style and comfort. The open-concept layout allows for seamless flow between the living room, kitchen, and dining area. The property also boasts a private balcony, ideal for enjoying the beautiful views of the neighborhood.",
+    "Neighborhood Description": "Moema is a prestigious neighborhood known for its upscale living and vibrant atmosphere. Located in the heart of Sao Paulo, Moema offers a wide range of amenities including trendy restaurants, chic boutiques, and lush green spaces. Residents can enjoy easy access to public transportation, top-rated schools, and cultural attractions. With its tree-lined streets and friendly community, Moema is the perfect place to call home."
   },
   {
     "Neighborhood": "Liberdade",
-    "Price": "$451,000",
-    "Bedrooms": "2",
-    "Bathrooms": "3",
-    "House Size": "2912 sqft",
-    "Description": "This stunning property in the vibrant neighborhood of Liberdade offers a unique opportunity for luxurious living. The house boasts 2 spacious bedrooms, 3 modern bathrooms, and a generous house size of 2912 sqft. The open layout and high ceilings create an airy and bright atmosphere throughout the home. The gourmet kitchen is equipped with top-of-the-line appliances and sleek countertops, perfect for entertaining guests. The master bedroom features a walk-in closet and an en-suite bathroom with a luxurious soaking tub. Additionally, the property includes a private backyard oasis, ideal for relaxing and enjoying the beautiful surroundings.",
-    "Neighborhood Description": "Liberdade is a lively neighborhood known for its rich cultural heritage and bustling atmosphere. With a diverse array of restaurants, shops, and entertainment options, residents of Liberdade enjoy a vibrant and dynamic lifestyle. The neighborhood is also home to beautiful parks, historic landmarks, and convenient public transportation options, making it a sought-after destination for those seeking a mix of urban convenience and cultural charm."
-  },
-  {
-    "Neighborhood": "Paraiso",
-    "Price": "$797,000",
-    "Bedrooms": "1",
-    "Bathrooms": "3",
-    "House Size": "2684 sqft",
-    "Description": "This stunning property in the desirable neighborhood of Paraiso offers a unique opportunity for luxurious living. The spacious house features 1 bedroom and 3 bathrooms, with a total of 2684 sqft of living space. The interior boasts high-end finishes, a modern kitchen, and expansive windows that flood the home with natural light. The outdoor space includes a private patio perfect for entertaining guests or simply enjoying a quiet evening.",
-    "Neighborhood Description": "Paraiso is a sought-after neighborhood known for its upscale living and convenient location. Surrounded by trendy restaurants, boutique shops, and lush green parks, residents enjoy a vibrant lifestyle with easy access to all the amenities the city has to offer. With tree-lined streets and a sense of community, Paraiso is the perfect place to call home."
-  },
-  {
-    "Neighborhood": "Paraiso",
-    "Price": "$269,000",
-    "Bedrooms": "1",
-    "Bathrooms": "3",
-    "House Size": "3717 sqft",
-    "Description": "This stunning property in the desirable Paraiso neighborhood features a spacious 1 bedroom, 3 bathroom layout spread across 3717 sqft of living space. The house boasts modern amenities and high-end finishes throughout, including a gourmet kitchen, luxurious bathrooms, and ample natural light. The open floor plan is perfect for entertaining guests, while the private outdoor patio offers a peaceful retreat.",
-    "Neighborhood Description": "Paraiso is known for its upscale atmosphere, tree-lined streets, and proximity to top-rated schools, trendy restaurants, and boutique shops. Residents enjoy easy access to parks, hiking trails, and recreational facilities, making it an ideal location for those seeking a vibrant yet peaceful community to call home."
-  },
-  {
-    "Neighborhood": "Morumbi",
-    "Price": "$1,185,000",
-    "Bedrooms": "5",
+    "Price": "$359,000",
+    "Bedrooms": "4",
     "Bathrooms": "1",
-    "House Size": "1861 sqft",
-    "Description": "This stunning 5-bedroom, 1-bathroom home in Morumbi is a true gem. With a spacious 1861 sqft of living space, this property offers ample room for a growing family. The open-concept layout allows for seamless flow between the living room, dining area, and kitchen, perfect for entertaining guests. The master bedroom features a walk-in closet and en-suite bathroom for added convenience. The backyard boasts a lush garden and patio, ideal for enjoying outdoor gatherings or simply relaxing in the sun.",
-    "Neighborhood Description": "Morumbi is a highly sought-after neighborhood in the heart of the city, known for its upscale homes, tree-lined streets, and proximity to top-rated schools and parks. Residents enjoy easy access to shopping centers, restaurants, and cultural attractions, making it a desirable location for families and professionals alike. With its tranquil atmosphere and convenient amenities, Morumbi offers the perfect blend of city living and suburban charm."
+    "House Size": "1586 sqft",
+    "Description": "This charming 4-bedroom home in the vibrant neighborhood of Liberdade offers a perfect blend of traditional and modern features. The spacious living room is filled with natural light, creating a warm and inviting atmosphere. The kitchen is equipped with stainless steel appliances and ample storage space. The bedrooms are cozy retreats, ideal for relaxation after a long day. The backyard boasts a lush garden, perfect for outdoor entertaining and enjoying the sunny days.",
+    "Neighborhood Description": "Liberdade is a bustling neighborhood known for its rich cultural heritage and lively atmosphere. It is home to a diverse community and offers a wide range of authentic restaurants, shops, and cultural events. Residents can enjoy exploring the vibrant street markets, beautiful parks, and historical landmarks that make Liberdade a unique and exciting place to call home. With easy access to public transportation and major highways, this neighborhood provides convenience and connectivity to the rest of the city."
+  },
+  {
+    "Neighborhood": "Paraiso",
+    "Price": "$1,024,000",
+    "Bedrooms": "4",
+    "Bathrooms": "1",
+    "House Size": "3929 sqft",
+    "Description": "This stunning 4-bedroom, 1-bathroom home in the desirable Paraiso neighborhood is a true gem. The spacious house size of 3929 sqft provides ample room for comfortable living and entertaining. The property features a beautifully landscaped backyard with a patio perfect for outdoor dining, a modern kitchen with high-end appliances, a cozy fireplace in the living room, and a luxurious master suite with a walk-in closet. With its prime location and stylish design, this home is perfect for those looking for a mix of elegance and functionality.",
+    "Neighborhood Description": "Paraiso is a charming and upscale neighborhood known for its tree-lined streets, beautiful parks, and proximity to top-rated schools, trendy shops, and gourmet restaurants. Residents enjoy a peaceful atmosphere while still being just a short drive away from the bustling city center. With a strong sense of community and a variety of amenities nearby, Paraiso is the ideal place to call home."
   },
   {
     "Neighborhood": "Vila Madalena",
-    "Price": "$934,000",
-    "Bedrooms": "3",
-    "Bathrooms": "1",
-    "House Size": "2025 sqft",
-    "Description": "This stunning property in Vila Madalena offers a unique blend of modern design and traditional charm. The open concept living area features high ceilings, large windows that fill the space with natural light, and a cozy fireplace. The kitchen is equipped with high-end appliances, granite countertops, and ample storage space. The spacious bedrooms are perfect for relaxation, and the sleek bathroom boasts a luxurious soaking tub. Outside, the backyard oasis includes a beautiful patio for al fresco dining and a lush garden for peaceful retreats.",
-    "Neighborhood Description": "Vila Madalena is a vibrant and eclectic neighborhood known for its artistic flair, trendy boutiques, and lively nightlife. Residents enjoy easy access to charming cafes, unique art galleries, and hip bars. The tree-lined streets and colorful murals create a dynamic atmosphere that attracts a diverse community of creatives and professionals. With its bustling energy and creative spirit, Vila Madalena is the perfect place to call home for those seeking a dynamic urban lifestyle."
-  },
-  {
-    "Neighborhood": "Itaim Bibi",
-    "Price": "$736,000",
+    "Price": "$518,000",
     "Bedrooms": "4",
-    "Bathrooms": "4",
-    "House Size": "2886 sqft",
-    "Description": "This stunning property in Itaim Bibi offers a luxurious living experience with 4 spacious bedrooms and 4 modern bathrooms. The house boasts a generous size of 2886 sqft, providing ample space for comfortable living. The property features high-end finishes, a gourmet kitchen, a cozy fireplace, and a beautiful backyard perfect for entertaining guests. With its prime location in Itaim Bibi, this home is a true gem for those seeking elegance and convenience.",
-    "Neighborhood Description": "Itaim Bibi is a trendy and upscale neighborhood in Sao Paulo known for its vibrant nightlife, high-end shopping boutiques, and gourmet restaurants. It is a popular choice among young professionals and expats due to its proximity to business districts and entertainment options. Residents can enjoy strolling along the charming streets lined with cafes, bars, and cultural attractions. Itaim Bibi offers a dynamic urban lifestyle with a touch of sophistication, making it a sought-after location for those looking to experience the best of Sao Paulo."
+    "Bathrooms": "2",
+    "House Size": "3475 sqft",
+    "Description": "This stunning 4-bedroom, 2-bathroom home in Vila Madalena offers a spacious 3475 sqft of living space. The property features a modern kitchen with high-end appliances, a cozy living room with a fireplace, and a backyard perfect for entertaining. The master suite includes a walk-in closet and a luxurious en-suite bathroom with a soaking tub. The other bedrooms are generously sized and ideal for a growing family or guests. With hardwood floors throughout and large windows allowing for plenty of natural light, this home is both elegant and inviting.",
+    "Neighborhood Description": "Vila Madalena is a vibrant and trendy neighborhood in S\u00e3o Paulo known for its bohemian atmosphere, art galleries, and eclectic mix of restaurants and shops. The tree-lined streets and colorful murals create a unique charm, making it a sought-after area for young professionals and families alike. With easy access to public transportation and close proximity to parks and cultural attractions, Vila Madalena offers the perfect blend of urban convenience and a relaxed, community feel."
   },
   {
-    "Neighborhood": "Bela Vista",
-    "Price": "$1,390,000",
-    "Bedrooms": "5",
-    "Bathrooms": "1",
-    "House Size": "3060 sqft",
-    "Description": "This stunning 5-bedroom home in the desirable Bela Vista neighborhood is a true gem. The spacious house boasts 3060 sqft of living space, perfect for a growing family or those who love to entertain. The open concept kitchen features modern appliances and a large island, ideal for hosting gatherings. The master bedroom suite is a luxurious retreat with a walk-in closet and en-suite bathroom. The backyard oasis includes a patio area and lush landscaping, creating a private sanctuary in the heart of the city. With a prime location and top-notch schools nearby, this home is a must-see!",
-    "Neighborhood Description": "Bela Vista is a sought-after neighborhood known for its tree-lined streets, charming homes, and sense of community. Residents enjoy easy access to parks, shopping, dining, and entertainment options. The neighborhood is also within close proximity to major highways, making it convenient for commuting to downtown and other parts of the city. Bela Vista offers the perfect blend of suburban tranquility and urban convenience, making it an ideal place to call home."
-  },
-  {
-    "Neighborhood": "Paraiso",
-    "Price": "$1,209,000",
-    "Bedrooms": "3",
-    "Bathrooms": "1",
-    "House Size": "1447 sqft",
-    "Description": "This charming 3-bedroom, 1-bathroom home in Paraiso is the perfect blend of modern luxury and classic charm. The open concept living area is spacious and filled with natural light, creating a warm and inviting atmosphere. The kitchen features high-end stainless steel appliances, granite countertops, and plenty of storage space. The master bedroom is a peaceful retreat with a large walk-in closet and an en-suite bathroom with a luxurious soaking tub. The backyard is a private oasis with a beautiful patio area, perfect for outdoor entertaining. This home is truly a gem in the desirable Paraiso neighborhood.",
-    "Neighborhood Description": "Paraiso is a vibrant and family-friendly neighborhood known for its tree-lined streets, beautiful parks, and close-knit community. Residents enjoy easy access to top-rated schools, trendy restaurants, boutique shops, and cultural attractions. With its convenient location and welcoming atmosphere, Paraiso is a highly sought-after neighborhood for those looking to experience the best of city living."
-  },
-  {
-    "Neighborhood": "Paraiso",
-    "Price": "$664,000",
-    "Bedrooms": "1",
-    "Bathrooms": "3",
-    "House Size": "1397 sqft",
-    "Description": "This stunning property in the desirable neighborhood of Paraiso offers a unique opportunity for luxury living. The spacious house features 1 bedroom and 3 bathrooms, perfect for comfortable living. The open layout and high ceilings create a bright and airy atmosphere throughout the 1397 sqft home. The modern kitchen is equipped with high-end appliances and sleek countertops, ideal for cooking and entertaining. The property also boasts a private outdoor space, perfect for relaxing or hosting guests.",
-    "Neighborhood Description": "Paraiso is a highly sought-after neighborhood known for its upscale amenities and convenient location. Residents enjoy easy access to trendy restaurants, boutique shops, and beautiful parks. The area is also known for its vibrant nightlife and cultural attractions, making it a desirable place to call home. With its tree-lined streets and friendly community atmosphere, Paraiso offers a perfect blend of urban convenience and suburban charm."
-  },
-  {
-    "Neighborhood": "Morumbi",
-    "Price": "$774,000",
-    "Bedrooms": "1",
-    "Bathrooms": "4",
-    "House Size": "2827 sqft",
-    "Description": "This luxurious property in Morumbi offers a unique living experience with its spacious 2827 sqft layout. The house features 1 bedroom and 4 bathrooms, perfect for those who value comfort and style. The modern design and high-end finishes make this home a true gem in the sought-after Morumbi neighborhood.",
-    "Neighborhood Description": "Morumbi is a prestigious neighborhood in S\u00e3o Paulo known for its upscale residences, lush greenery, and proximity to high-end shopping and dining options. The area offers a peaceful and secure environment, making it an ideal choice for those seeking a sophisticated and luxurious lifestyle. With easy access to parks, schools, and cultural attractions, Morumbi is a coveted location for discerning homebuyers."
-  },
-  {
-    "Neighborhood": "Liberdade",
-    "Price": "$230,000",
-    "Bedrooms": "4",
-    "Bathrooms": "3",
-    "House Size": "1972 sqft",
-    "Description": "This charming 4-bedroom, 3-bathroom home in the vibrant neighborhood of Liberdade is the perfect blend of modern amenities and historic charm. The spacious house features a well-appointed kitchen, cozy living room, and a beautifully landscaped backyard perfect for entertaining. The master bedroom boasts an en-suite bathroom and walk-in closet, providing a luxurious retreat. With a total of 1972 sqft of living space, this home offers ample room for a growing family or those who love to host guests.",
-    "Neighborhood Description": "Liberdade is a diverse and culturally rich neighborhood known for its unique blend of Asian and Portuguese influences. The area is famous for its bustling markets, delicious restaurants, and colorful festivals. Residents enjoy easy access to public transportation, parks, and a variety of shops and entertainment venues. With a strong sense of community and a rich history, Liberdade is a highly sought-after area for those looking to experience the vibrant energy of S\u00e3o Paulo."
-  },
-  {
-    "Neighborhood": "Itaim Bibi",
-    "Price": "$465,000",
-    "Bedrooms": "4",
-    "Bathrooms": "4",
-    "House Size": "3298 sqft",
-    "Description": "This stunning 4-bedroom, 4-bathroom home in Itaim Bibi is a true gem. With a spacious house size of 3298 sqft, this property offers ample space for comfortable living. The house features modern finishes, a gourmet kitchen, a cozy fireplace, and a beautifully landscaped backyard perfect for entertaining family and friends. The master bedroom boasts a luxurious ensuite bathroom and a walk-in closet. This home is perfect for those looking for a blend of sophistication and comfort in a prime location.",
-    "Neighborhood Description": "Itaim Bibi is a vibrant and upscale neighborhood in Sao Paulo, known for its trendy restaurants, high-end shopping, and lively nightlife. It is a sought-after area for young professionals and families alike, offering a mix of residential and commercial spaces. With tree-lined streets, beautiful parks, and easy access to public transportation, Itaim Bibi is a desirable location for those looking for a dynamic urban lifestyle."
-  },
-  {
-    "Neighborhood": "Jardins",
-    "Price": "$683,000",
+    "Neighborhood": "Pinheiros",
+    "Price": "$1,213,000",
     "Bedrooms": "5",
     "Bathrooms": "4",
-    "House Size": "2906 sqft",
-    "Description": "This stunning 5-bedroom, 4-bathroom home in the desirable Jardins neighborhood is a true gem. With a spacious 2906 sqft of living space, this property offers ample room for a growing family or for entertaining guests. The modern kitchen features stainless steel appliances, granite countertops, and a large island perfect for meal prep. The master suite boasts a luxurious en-suite bathroom with a soaking tub and separate shower. The backyard is an oasis with a covered patio, perfect for enjoying a morning coffee or hosting summer BBQs. This home is truly a must-see!",
-    "Neighborhood Description": "Jardins is a prestigious and sought-after neighborhood known for its tree-lined streets, upscale shopping, and fine dining options. Located in a prime location, residents of Jardins enjoy easy access to top-rated schools, parks, and entertainment options. The vibrant community atmosphere and beautiful surroundings make Jardins a highly desirable place to call home."
+    "House Size": "2851 sqft",
+    "Description": "This stunning 5-bedroom, 4-bathroom home in Pinheiros is a true gem. With 2851 sqft of living space, this property offers ample room for a large family or those who love to entertain. The open concept layout features a modern kitchen with stainless steel appliances, a spacious living room with a cozy fireplace, and a master bedroom with a luxurious en-suite bathroom. The backyard oasis is perfect for outdoor gatherings, with a beautiful garden and a patio for al fresco dining. This home also boasts a 2-car garage and plenty of storage space.",
+    "Neighborhood Description": "Pinheiros is a vibrant and bustling neighborhood known for its trendy restaurants, eclectic shops, and lively nightlife. Located in the heart of Sao Paulo, Pinheiros offers a mix of modern amenities and historic charm. Residents enjoy easy access to public transportation, parks, and cultural attractions. With a strong sense of community and a diverse population, Pinheiros is a sought-after neighborhood for those looking to experience the best of city living."
+  },
+  {
+    "Neighborhood": "Pinheiros",
+    "Price": "$1,387,000",
+    "Bedrooms": "5",
+    "Bathrooms": "1",
+    "House Size": "1345 sqft",
+    "Description": "This stunning 5-bedroom home in the desirable Pinheiros neighborhood offers a perfect blend of modern luxury and classic charm. The spacious house features a beautifully designed kitchen, a cozy living room with a fireplace, and a large backyard perfect for entertaining guests. The master bedroom boasts a walk-in closet and en-suite bathroom, while the remaining bedrooms offer ample space for family or guests. With hardwood floors throughout and an abundance of natural light, this home is truly a gem in the heart of Pinheiros.",
+    "Neighborhood Description": "Pinheiros is a vibrant and upscale neighborhood known for its trendy restaurants, boutique shops, and cultural attractions. With tree-lined streets and a lively atmosphere, residents of Pinheiros enjoy a mix of modern amenities and historic charm. The neighborhood is also home to beautiful parks, art galleries, and entertainment venues, making it a sought-after location for those looking for a vibrant urban lifestyle."
   },
   {
     "Neighborhood": "Brooklin",
-    "Price": "$1,074,000",
+    "Price": "$592,000",
+    "Bedrooms": "1",
+    "Bathrooms": "3",
+    "House Size": "1143 sqft",
+    "Description": "This charming 1-bedroom, 3-bathroom home in the desirable Brooklin neighborhood is a rare find. The house boasts a spacious layout with 1143 sqft of living space, perfect for a single professional or couple. The open concept kitchen and living area is ideal for entertaining, while the master bedroom features a luxurious ensuite bathroom. The property also includes a private backyard oasis, perfect for enjoying the sunny Brooklin weather.",
+    "Neighborhood Description": "Brooklin is a picturesque neighborhood known for its tree-lined streets, friendly community atmosphere, and close proximity to parks and schools. Residents enjoy easy access to boutique shops, trendy restaurants, and cafes, making it a sought-after location for those looking for a mix of suburban tranquility and urban conveniences. With its charming architecture and peaceful surroundings, Brooklin offers the perfect blend of small-town charm and modern amenities."
+  },
+  {
+    "Neighborhood": "Liberdade",
+    "Price": "$1,101,000",
+    "Bedrooms": "2",
+    "Bathrooms": "4",
+    "House Size": "3632 sqft",
+    "Description": "This stunning property in the vibrant neighborhood of Liberdade offers a unique opportunity for luxury living in the heart of the city. The house boasts 2 spacious bedrooms, each with its own en-suite bathroom, as well as an additional 2 bathrooms for guests. The expansive 3632 sqft of living space includes a gourmet kitchen, a formal dining room, a cozy living area with a fireplace, and a private outdoor patio perfect for entertaining. The property also features high-end finishes throughout, including hardwood floors, granite countertops, and custom cabinetry.",
+    "Neighborhood Description": "Liberdade is known for its rich history, diverse cultural influences, and bustling street markets. Residents can enjoy easy access to a wide range of dining options, shopping boutiques, and entertainment venues. The neighborhood is also home to beautiful parks and gardens, making it a desirable location for those seeking a dynamic urban lifestyle with a touch of charm. With its convenient location and vibrant atmosphere, Liberdade offers a unique living experience in the heart of the city."
+  },
+  {
+    "Neighborhood": "Morumbi",
+    "Price": "$1,225,000",
+    "Bedrooms": "3",
+    "Bathrooms": "2",
+    "House Size": "3844 sqft",
+    "Description": "This stunning 3-bedroom, 2-bathroom home in Morumbi is a true gem. With a spacious house size of 3844 sqft, this property offers ample space for comfortable living. The interior features high ceilings, large windows that allow plenty of natural light, and a modern kitchen with top-of-the-line appliances. The master bedroom boasts a luxurious en-suite bathroom with a soaking tub and a walk-in closet. Outside, the property includes a beautifully landscaped backyard with a patio, perfect for outdoor entertaining.",
+    "Neighborhood Description": "Morumbi is a prestigious residential neighborhood in Sao Paulo, known for its upscale homes, lush greenery, and proximity to amenities. Residents of Morumbi enjoy easy access to parks, shopping centers, restaurants, and schools, making it a desirable location for families and professionals alike. The neighborhood also offers a sense of tranquility and security, making it a peaceful retreat from the hustle and bustle of the city."
+  },
+  {
+    "Neighborhood": "Liberdade",
+    "Price": "$1,008,000",
+    "Bedrooms": "2",
+    "Bathrooms": "4",
+    "House Size": "1314 sqft",
+    "Description": "This stunning property in the vibrant neighborhood of Liberdade offers a unique opportunity for luxury living in the heart of the city. The house boasts 2 spacious bedrooms, each with its own en-suite bathroom, perfect for comfortable living. The modern kitchen is equipped with high-end appliances and opens up to a bright and airy living room, ideal for entertaining guests. The property also features a private backyard garden, providing a peaceful oasis in the bustling city.",
+    "Neighborhood Description": "Liberdade is known for its rich cultural heritage, with a diverse community and a bustling street market offering a wide variety of shops and restaurants. The neighborhood is conveniently located near public transportation, parks, and schools, making it a desirable location for both families and young professionals. Experience the best of city living in Liberdade."
+  },
+  {
+    "Neighborhood": "Pinheiros",
+    "Price": "$1,489,000",
+    "Bedrooms": "1",
+    "Bathrooms": "4",
+    "House Size": "990 sqft",
+    "Description": "This stunning property in Pinheiros offers a unique and luxurious living experience. The spacious 990 sqft house features 1 bedroom and 4 bathrooms, perfect for those who enjoy hosting guests. The modern design and high-end finishes throughout the home make it a true gem in the heart of the city. The open concept living area is ideal for entertaining, while the large windows allow for plenty of natural light. The property also includes a private outdoor patio, perfect for enjoying the beautiful weather.",
+    "Neighborhood Description": "Pinheiros is a vibrant and trendy neighborhood known for its eclectic mix of art galleries, boutiques, and restaurants. With its bustling nightlife and cultural attractions, residents of Pinheiros enjoy a vibrant and dynamic lifestyle. The neighborhood is also conveniently located near public transportation, making it easy to explore the rest of the city. Whether you're looking for a trendy cafe to relax in or a lively bar to unwind, Pinheiros has something for everyone."
+  },
+  {
+    "Neighborhood": "Moema",
+    "Price": "$516,000",
+    "Bedrooms": "4",
+    "Bathrooms": "3",
+    "House Size": "2863 sqft",
+    "Description": "This stunning 4-bedroom, 3-bathroom home in Moema is the epitome of luxury living. With a spacious house size of 2863 sqft, this property offers ample room for comfortable living and entertaining. The interior features high-end finishes, modern appliances, and large windows that fill the space with natural light. The master bedroom boasts a walk-in closet and an en-suite bathroom with a luxurious soaking tub. The backyard is perfect for outdoor gatherings, with a patio area and lush landscaping creating a serene oasis.",
+    "Neighborhood Description": "Moema is a highly sought-after neighborhood known for its upscale living, trendy restaurants, and vibrant nightlife. Residents enjoy easy access to parks, shopping centers, and top-rated schools. The tree-lined streets and beautiful green spaces make Moema a peaceful retreat in the heart of the bustling city. With its convenient location and luxurious amenities, Moema is the perfect place to call home."
+  },
+  {
+    "Neighborhood": "Bela Vista",
+    "Price": "$1,359,000",
+    "Bedrooms": "1",
+    "Bathrooms": "3",
+    "House Size": "903 sqft",
+    "Description": "This luxurious property in Bela Vista offers a unique living experience with its modern design and high-end finishes. The spacious 1-bedroom, 3-bathroom home features an open floor plan, hardwood floors, and floor-to-ceiling windows that provide ample natural light. The gourmet kitchen is equipped with stainless steel appliances, quartz countertops, and a large island perfect for entertaining. The master bedroom boasts a walk-in closet and a spa-like ensuite bathroom with a soaking tub and separate shower. Additional features include a private balcony, in-unit laundry, and designated parking.",
+    "Neighborhood Description": "Bela Vista is a vibrant neighborhood known for its trendy restaurants, cafes, and boutiques. Located in the heart of the city, residents can easily access public transportation, parks, and cultural attractions. The tree-lined streets and historic architecture add to the charm of this sought-after area, making it an ideal place to call home."
+  },
+  {
+    "Neighborhood": "Liberdade",
+    "Price": "$898,000",
     "Bedrooms": "3",
     "Bathrooms": "4",
-    "House Size": "1841 sqft",
-    "Description": "This stunning property in Brooklin offers a perfect blend of modern design and functionality. The open concept layout creates a spacious and inviting atmosphere, perfect for entertaining guests or relaxing with family. The gourmet kitchen features top-of-the-line appliances and a large island, making it a chef's dream. The master bedroom boasts a luxurious ensuite bathroom with a soaking tub and walk-in shower. Additionally, the backyard oasis includes a patio area and lush landscaping, ideal for outdoor gatherings.",
-    "Neighborhood Description": "Brooklin is a charming and family-friendly neighborhood known for its tree-lined streets and close-knit community. Residents enjoy easy access to parks, schools, and local shops, creating a convenient and welcoming atmosphere. With a variety of dining options and recreational activities nearby, Brooklin offers the perfect balance of suburban living and urban amenities. Don't miss this opportunity to call Brooklin home!"
+    "House Size": "3164 sqft",
+    "Description": "This stunning property in the vibrant neighborhood of Liberdade offers a luxurious living experience. The house boasts 3 spacious bedrooms and 4 bathrooms, perfect for a growing family or for hosting guests. With a generous house size of 3164 sqft, there is plenty of room for relaxation and entertainment. The property features modern finishes, high ceilings, and large windows that fill the space with natural light. The gourmet kitchen is equipped with top-of-the-line appliances and a center island, ideal for cooking and gathering with loved ones. The master bedroom includes a walk-in closet and an en-suite bathroom with a luxurious soaking tub. Outside, the backyard provides a private oasis with a patio and lush landscaping.",
+    "Neighborhood Description": "Liberdade is known for its rich cultural heritage and diverse community. This historic neighborhood is famous for its Japanese influence, seen in its unique architecture, delicious restaurants, and traditional festivals. Residents of Liberdade enjoy easy access to public transportation, parks, shopping centers, and a variety of dining options. With a mix of residential and commercial spaces, Liberdade offers the perfect balance of city living and cultural experiences. Don't miss the opportunity to own a piece of this dynamic neighborhood in this beautiful home."
+  },
+  {
+    "Neighborhood": "Morumbi",
+    "Price": "$1,339,000",
+    "Bedrooms": "5",
+    "Bathrooms": "2",
+    "House Size": "1498 sqft",
+    "Description": "This stunning 5-bedroom, 2-bathroom home in Morumbi is a true gem. The house boasts a spacious layout with 1498 sqft of living space, perfect for a growing family. The modern kitchen features stainless steel appliances and granite countertops, ideal for those who love to cook and entertain. The master bedroom offers a luxurious en-suite bathroom with a soaking tub and separate shower. The backyard is a private oasis with a lush garden and a patio, perfect for outdoor dining and relaxing. With its prime location and stylish design, this home is a must-see!",
+    "Neighborhood Description": "Morumbi is a prestigious neighborhood in Sao Paulo known for its upscale homes, tree-lined streets, and beautiful parks. Residents enjoy easy access to shopping centers, restaurants, and top-rated schools. The area is also known for its safety and sense of community, making it a desirable place to live for families and professionals alike. With its convenient location and high quality of life, Morumbi is a sought-after neighborhood in Sao Paulo."
+  },
+  {
+    "Neighborhood": "Morumbi",
+    "Price": "$1,480,000",
+    "Bedrooms": "1",
+    "Bathrooms": "2",
+    "House Size": "2522 sqft",
+    "Description": "This luxurious property in Morumbi offers a unique living experience with its spacious 2522 sqft layout. The modern design features 1 bedroom, 2 bathrooms, and high-end finishes throughout. The open concept living area is perfect for entertaining, while the large windows allow for plenty of natural light. The gourmet kitchen boasts top-of-the-line appliances and ample storage space. The master bedroom includes a walk-in closet and a beautifully appointed en-suite bathroom. Enjoy the convenience of a private balcony overlooking the city skyline. Additional amenities include a fitness center, swimming pool, and 24-hour security.",
+    "Neighborhood Description": "Morumbi is a prestigious neighborhood in S\u00e3o Paulo known for its upscale homes, green spaces, and proximity to amenities. Residents enjoy easy access to shopping centers, fine dining restaurants, and cultural attractions. The area is also home to excellent schools and medical facilities, making it an ideal choice for families. With its tree-lined streets and tranquil atmosphere, Morumbi offers a peaceful retreat from the hustle and bustle of the city."
+  },
+  {
+    "Neighborhood": "Morumbi",
+    "Price": "$628,000",
+    "Bedrooms": "4",
+    "Bathrooms": "3",
+    "House Size": "2224 sqft",
+    "Description": "This stunning 4-bedroom, 3-bathroom home in the desirable Morumbi neighborhood is a true gem. With a spacious house size of 2224 sqft, this property offers plenty of room for a growing family. The open concept layout, modern kitchen, and luxurious master suite are just a few of the unique features that make this home stand out. The backyard oasis with a beautiful garden and patio is perfect for entertaining guests or simply relaxing in the serene environment.",
+    "Neighborhood Description": "Morumbi is a prestigious neighborhood known for its upscale homes, leafy streets, and proximity to top-rated schools, shopping centers, and restaurants. Residents enjoy a peaceful and safe environment, while still being just a short drive away from the bustling city center. With its beautiful parks and recreational facilities, Morumbi is the perfect place to call home for those seeking a balance of luxury and convenience."
+  },
+  {
+    "Neighborhood": "Moema",
+    "Price": "$1,053,000",
+    "Bedrooms": "3",
+    "Bathrooms": "1",
+    "House Size": "2125 sqft",
+    "Description": "This stunning property in Moema offers a spacious living area with 3 bedrooms and 1 bathroom, perfect for a family looking for a comfortable home. The house size of 2125 sqft provides ample space for relaxation and entertainment. The property features a modern kitchen, a cozy living room, and a beautiful backyard garden, ideal for outdoor gatherings. With stylish finishes and plenty of natural light, this home is truly a gem in the desirable neighborhood of Moema.",
+    "Neighborhood Description": "Moema is a sought-after residential neighborhood in S\u00e3o Paulo, known for its upscale atmosphere, charming streets, and convenient location. Residents enjoy easy access to trendy restaurants, boutique shops, and green spaces like Ibirapuera Park. With excellent schools, healthcare facilities, and public transportation options nearby, Moema is a popular choice for families and professionals seeking a vibrant urban lifestyle."
+  },
+  {
+    "Neighborhood": "Pinheiros",
+    "Price": "$1,040,000",
+    "Bedrooms": "2",
+    "Bathrooms": "3",
+    "House Size": "3066 sqft",
+    "Description": "This stunning property in Pinheiros offers modern luxury living in the heart of Sao Paulo. The spacious house boasts 2 bedrooms, 3 bathrooms, and a total of 3066 sqft of living space. The open-concept layout is perfect for entertaining, with a gourmet kitchen, large living room, and a private outdoor patio. The master bedroom features a walk-in closet and en-suite bathroom with a luxurious soaking tub. Other features include high-end finishes, hardwood floors, and ample natural light throughout the home.",
+    "Neighborhood Description": "Pinheiros is a trendy and vibrant neighborhood known for its eclectic mix of restaurants, bars, and boutiques. Residents enjoy easy access to public transportation, parks, and cultural attractions. The area is popular with young professionals and families looking for a lively urban setting with a laid-back atmosphere. With its central location and diverse amenities, Pinheiros is a sought-after neighborhood for those seeking a dynamic lifestyle in Sao Paulo."
+  },
+  {
+    "Neighborhood": "Vila Madalena",
+    "Price": "$1,460,000",
+    "Bedrooms": "4",
+    "Bathrooms": "2",
+    "House Size": "972 sqft",
+    "Description": "This charming 4-bedroom, 2-bathroom home in Vila Madalena is a rare find in this sought-after neighborhood. The house features a spacious living room with large windows that fill the space with natural light. The kitchen is equipped with modern appliances and plenty of counter space for cooking and entertaining. The bedrooms are well-sized and offer ample closet space. The backyard is perfect for outdoor gatherings and gardening enthusiasts.",
+    "Neighborhood Description": "Vila Madalena is known for its vibrant arts and culture scene, with numerous galleries, restaurants, and bars lining its streets. The neighborhood is also home to beautiful parks and green spaces, making it a great place for outdoor activities. Residents enjoy easy access to public transportation and major highways, making it convenient to get around the city. With its eclectic mix of old and new, Vila Madalena offers a unique and lively atmosphere for residents to enjoy."
+  },
+  {
+    "Neighborhood": "Vila Madalena",
+    "Price": "$551,000",
+    "Bedrooms": "2",
+    "Bathrooms": "2",
+    "House Size": "947 sqft",
+    "Description": "This charming 2-bedroom, 2-bathroom home in Vila Madalena is a hidden gem in the heart of the bustling city. The property features a spacious living room with plenty of natural light, a modern kitchen with stainless steel appliances, and a cozy outdoor patio perfect for entertaining guests. The master bedroom boasts an en-suite bathroom and a walk-in closet, providing a luxurious retreat. With hardwood floors throughout and tasteful finishes, this home offers the perfect blend of comfort and style.",
+    "Neighborhood Description": "Vila Madalena is known for its vibrant arts and culture scene, with numerous galleries, boutiques, and street art installations lining the streets. The neighborhood also offers a variety of trendy restaurants, cafes, and bars, making it a popular destination for young professionals and creatives. With its tree-lined streets and close proximity to parks and green spaces, Vila Madalena provides a peaceful escape from the hustle and bustle of city life."
+  },
+  {
+    "Neighborhood": "Bela Vista",
+    "Price": "$1,484,000",
+    "Bedrooms": "5",
+    "Bathrooms": "3",
+    "House Size": "2176 sqft",
+    "Description": "This stunning 5-bedroom, 3-bathroom home in Bela Vista offers luxury living at its finest. The spacious 2176 sqft house features high-end finishes throughout, including hardwood floors, granite countertops, and stainless steel appliances. The open concept layout is perfect for entertaining, with a gourmet kitchen overlooking the cozy living room with a fireplace. The master suite boasts a walk-in closet and a spa-like ensuite bathroom with a soaking tub and separate shower. Outside, the backyard oasis is complete with a patio, perfect for al fresco dining, and a lush green lawn.",
+    "Neighborhood Description": "Bela Vista is a highly sought-after neighborhood known for its tree-lined streets, upscale homes, and vibrant community. Residents enjoy easy access to top-rated schools, trendy restaurants, boutique shops, and beautiful parks. With a close-knit feel and a convenient location, Bela Vista is the perfect place to call home for families and professionals alike."
+  },
+  {
+    "Neighborhood": "Moema",
+    "Price": "$1,210,000",
+    "Bedrooms": "3",
+    "Bathrooms": "3",
+    "House Size": "3463 sqft",
+    "Description": "This stunning property in Moema features 3 spacious bedrooms, each with its own en-suite bathroom, perfect for a growing family or hosting guests. The house boasts a total of 3463 sqft of living space, providing ample room for relaxation and entertainment. The modern kitchen is equipped with high-end appliances and opens up to a bright and airy living room with large windows offering plenty of natural light. The master bedroom includes a walk-in closet and a luxurious spa-like bathroom. Outside, the property offers a beautifully landscaped backyard with a patio area, ideal for outdoor gatherings and enjoying the lovely weather.",
+    "Neighborhood Description": "Moema is a highly sought-after neighborhood known for its upscale living, trendy restaurants, and vibrant nightlife. It is conveniently located near shopping centers, parks, and top-rated schools, making it a desirable location for families and young professionals alike. With tree-lined streets and a strong sense of community, Moema offers a peaceful retreat from the hustle and bustle of the city while still being close to all the amenities Sao Paulo has to offer."
+  },
+  {
+    "Neighborhood": "Morumbi",
+    "Price": "$1,388,000",
+    "Bedrooms": "4",
+    "Bathrooms": "2",
+    "House Size": "2874 sqft",
+    "Description": "This stunning 4-bedroom, 2-bathroom home in Morumbi is a true gem. With a spacious house size of 2874 sqft, this property offers ample living space for a growing family. The open concept layout and modern design features make this home perfect for entertaining guests. The master bedroom includes a luxurious ensuite bathroom with a soaking tub and separate shower. The backyard oasis is ideal for outdoor gatherings, with a large patio and beautifully landscaped garden.",
+    "Neighborhood Description": "Morumbi is a highly sought-after neighborhood known for its upscale homes, tree-lined streets, and proximity to top-rated schools and parks. Residents enjoy easy access to shopping centers, restaurants, and recreational facilities. The area is well-maintained and offers a safe and family-friendly environment for all residents. With its convenient location and desirable amenities, Morumbi is the perfect place to call home."
+  },
+  {
+    "Neighborhood": "Paraiso",
+    "Price": "$460,000",
+    "Bedrooms": "1",
+    "Bathrooms": "3",
+    "House Size": "2977 sqft",
+    "Description": "This stunning property in Paraiso offers a unique blend of modern design and luxury living. The spacious 2977 sqft home features 1 bedroom and 3 bathrooms, perfect for those seeking a contemporary and comfortable living space. The open floor plan allows for seamless flow between the living room, dining area, and kitchen, creating an ideal space for entertaining guests. The property also boasts high-end finishes, large windows that let in ample natural light, and a private outdoor patio for relaxation.",
+    "Neighborhood Description": "Paraiso is a desirable neighborhood known for its picturesque streets, lush greenery, and close proximity to amenities. Residents can enjoy easy access to shopping centers, restaurants, parks, and top-rated schools. The community offers a peaceful and serene ambiance, making it a perfect place to call home for those seeking a tranquil yet convenient lifestyle."
+  },
+  {
+    "Neighborhood": "Bela Vista",
+    "Price": "$951,000",
+    "Bedrooms": "2",
+    "Bathrooms": "4",
+    "House Size": "821 sqft",
+    "Description": "This stunning property in Bela Vista offers a unique combination of modern design and luxury. The house features 2 spacious bedrooms, each with their own ensuite bathroom, as well as 2 additional bathrooms for guests. The open concept living area is perfect for entertaining, with a gourmet kitchen, high ceilings, and floor-to-ceiling windows that offer breathtaking views of the surrounding area. The property also includes a private outdoor space, perfect for relaxing or enjoying a morning coffee.",
+    "Neighborhood Description": "Bela Vista is a vibrant and trendy neighborhood known for its eclectic mix of cafes, boutiques, and art galleries. Situated in the heart of the city, residents of Bela Vista enjoy easy access to public transportation, parks, and some of the best dining options in town. With its charming cobblestone streets and historic architecture, Bela Vista is a sought-after location for those looking to experience the best that the city has to offer."
+  },
+  {
+    "Neighborhood": "Morumbi",
+    "Price": "$586,000",
+    "Bedrooms": "4",
+    "Bathrooms": "2",
+    "House Size": "1857 sqft",
+    "Description": "This stunning 4-bedroom, 2-bathroom home in Morumbi is the perfect blend of modern amenities and classic charm. The spacious layout includes a gourmet kitchen with stainless steel appliances, a cozy living room with a fireplace, and a master bedroom suite with a luxurious en-suite bathroom. The backyard features a beautifully landscaped garden and a patio area, perfect for outdoor entertaining. With a prime location in Morumbi, this home offers convenience and comfort in one package.",
+    "Neighborhood Description": "Morumbi is a highly desirable neighborhood known for its upscale homes, tree-lined streets, and proximity to top-rated schools and recreational facilities. Residents enjoy easy access to shopping centers, restaurants, and parks, making it an ideal choice for families and professionals alike. With its lush greenery and peaceful atmosphere, Morumbi offers a tranquil escape from the hustle and bustle of city life."
+  },
+  {
+    "Neighborhood": "Jardins",
+    "Price": "$228,000",
+    "Bedrooms": "4",
+    "Bathrooms": "1",
+    "House Size": "1902 sqft",
+    "Description": "This stunning 4-bedroom, 1-bathroom home in the desirable Jardins neighborhood is a rare find. The spacious 1902 sqft house features a modern kitchen with stainless steel appliances, a cozy living room with a fireplace, and a backyard perfect for entertaining. The bedrooms are bright and airy, offering plenty of space for relaxation. With a mix of hardwood floors and plush carpeting, this home strikes the perfect balance between style and comfort.",
+    "Neighborhood Description": "Jardins is a highly sought-after neighborhood known for its tree-lined streets, upscale boutiques, and trendy restaurants. Residents enjoy easy access to parks, schools, and public transportation, making it a convenient and vibrant place to call home. Whether you're looking to explore the local cafes or relax in a nearby park, Jardins offers a perfect blend of city living and suburban charm."
+  },
+  {
+    "Neighborhood": "Brooklin",
+    "Price": "$634,000",
+    "Bedrooms": "1",
+    "Bathrooms": "2",
+    "House Size": "921 sqft",
+    "Description": "This charming 1-bedroom, 2-bathroom home in Brooklin is the perfect cozy retreat for anyone looking to live in a vibrant neighborhood. The house features an open-concept layout with a spacious living room, a modern kitchen with stainless steel appliances, and a master bedroom with an ensuite bathroom. The property also includes a private backyard perfect for relaxing or entertaining guests.",
+    "Neighborhood Description": "Brooklin is a highly sought-after neighborhood known for its tree-lined streets, boutique shops, and trendy restaurants. Residents of Brooklin enjoy easy access to parks, schools, and public transportation, making it a convenient and desirable place to live. With a strong sense of community and a variety of amenities nearby, Brooklin offers the perfect balance of urban living and suburban charm."
+  },
+  {
+    "Neighborhood": "Jardins",
+    "Price": "$1,063,000",
+    "Bedrooms": "3",
+    "Bathrooms": "3",
+    "House Size": "2253 sqft",
+    "Description": "This stunning property in the sought-after neighborhood of Jardins offers luxury living at its finest. The house features 3 spacious bedrooms, each with its own en-suite bathroom, perfect for privacy and convenience. The open concept living area is ideal for entertaining, with a modern kitchen, high-end appliances, and a cozy fireplace. The master bedroom boasts a walk-in closet and a luxurious spa-like bathroom. The backyard oasis includes a beautifully landscaped garden, a patio for outdoor dining, and a refreshing pool, creating the perfect setting for relaxation and enjoyment.",
+    "Neighborhood Description": "Jardins is known for its upscale and trendy vibe, offering a mix of high-end shops, gourmet restaurants, and vibrant nightlife. The tree-lined streets and charming architecture add to the appeal of this exclusive neighborhood. Residents enjoy easy access to parks, cultural attractions, and top-rated schools, making it a desirable location for families and professionals alike. With its prime location and luxurious amenities, Jardins is the perfect place to call home."
+  },
+  {
+    "Neighborhood": "Brooklin",
+    "Price": "$1,016,000",
+    "Bedrooms": "3",
+    "Bathrooms": "1",
+    "House Size": "1075 sqft",
+    "Description": "This charming 3-bedroom, 1-bathroom home in Brooklin is a perfect blend of modern updates and classic charm. The spacious living room features hardwood floors and large windows that fill the space with natural light. The kitchen boasts stainless steel appliances, granite countertops, and ample cabinet space. The bedrooms are cozy retreats with plush carpeting and generous closet space. The backyard offers a peaceful oasis with a deck, perfect for outdoor entertaining.",
+    "Neighborhood Description": "Brooklin is a highly sought-after neighborhood known for its tree-lined streets, top-rated schools, and proximity to parks and recreational facilities. Residents enjoy easy access to boutique shops, trendy restaurants, and cafes. With a strong sense of community and a mix of historic and new homes, Brooklin offers the perfect balance of urban convenience and suburban tranquility."
+  },
+  {
+    "Neighborhood": "Liberdade",
+    "Price": "$732,000",
+    "Bedrooms": "2",
+    "Bathrooms": "1",
+    "House Size": "1410 sqft",
+    "Description": "This charming 2-bedroom, 1-bathroom home in the vibrant neighborhood of Liberdade is a rare find. The property boasts a spacious living area perfect for entertaining guests, a modern kitchen with stainless steel appliances, and a cozy backyard for outdoor relaxation. The bedrooms are generously sized with ample natural light, and the bathroom features a luxurious soaking tub. With a total of 1410 sqft of living space, this home offers comfort and style in the heart of the city.",
+    "Neighborhood Description": "Liberdade is a historic neighborhood known for its rich cultural heritage and diverse community. Filled with colorful shops, delicious restaurants, and bustling markets, residents enjoy easy access to all the amenities the city has to offer. The neighborhood is also home to beautiful parks and gardens, providing a peaceful escape from the hustle and bustle of urban life. With its convenient location and unique charm, Liberdade is a sought-after destination for those looking to experience the best of city living."
+  },
+  {
+    "Neighborhood": "Moema",
+    "Price": "$849,000",
+    "Bedrooms": "1",
+    "Bathrooms": "4",
+    "House Size": "2041 sqft",
+    "Description": "This stunning property in Moema features a spacious 2041 sqft house with 1 bedroom and 4 bathrooms. The modern design includes high ceilings, large windows for natural light, and top-of-the-line finishes throughout. The open concept living area is perfect for entertaining guests, while the master suite boasts a luxurious en-suite bathroom. The property also includes a private outdoor space for relaxation and a designated parking spot.",
+    "Neighborhood Description": "Moema is a sought-after neighborhood known for its upscale residential buildings, trendy restaurants, and vibrant nightlife. It offers a mix of green spaces and urban amenities, making it a desirable location for those seeking a high quality of life. With easy access to parks, shopping centers, and transportation options, Moema is a prime choice for those looking to live in the heart of S\u00e3o Paulo."
+  },
+  {
+    "Neighborhood": "Jardins",
+    "Price": "$529,000",
+    "Bedrooms": "4",
+    "Bathrooms": "2",
+    "House Size": "2252 sqft",
+    "Description": "This stunning 4-bedroom, 2-bathroom home in the prestigious Jardins neighborhood is a rare find. The spacious 2252 sqft house features a modern open-concept layout with high ceilings and large windows that flood the space with natural light. The master bedroom boasts a luxurious en-suite bathroom with a soaking tub and separate shower. The gourmet kitchen is equipped with top-of-the-line stainless steel appliances and granite countertops. The backyard oasis includes a beautifully landscaped garden and a patio perfect for outdoor entertaining.",
+    "Neighborhood Description": "Jardins is known for its upscale atmosphere, tree-lined streets, and proximity to high-end shopping, dining, and entertainment options. Residents enjoy easy access to parks, schools, and major transportation routes, making it a highly desirable location for families and professionals alike. Don't miss this opportunity to own a piece of luxury in the heart of Jardins."
+  },
+  {
+    "Neighborhood": "Brooklin",
+    "Price": "$230,000",
+    "Bedrooms": "3",
+    "Bathrooms": "1",
+    "House Size": "2944 sqft",
+    "Description": "This charming 3-bedroom, 1-bathroom home in the Brooklin neighborhood is perfect for a small family or first-time homebuyers. The spacious 2944 sqft house features a cozy living room, a kitchen with updated appliances, and a backyard perfect for outdoor entertaining. The bedrooms offer ample space and natural light, making them the perfect retreat after a long day. With easy access to local schools, parks, and shopping centers, this home is a must-see!",
+    "Neighborhood Description": "Brooklin is a peaceful and family-friendly neighborhood known for its tree-lined streets and close-knit community. Residents enjoy nearby parks, community events, and a variety of local shops and restaurants. With top-rated schools and a convenient location just a short drive from downtown, Brooklin offers the perfect blend of suburban tranquility and urban amenities."
+  },
+  {
+    "Neighborhood": "Vila Madalena",
+    "Price": "$819,000",
+    "Bedrooms": "1",
+    "Bathrooms": "3",
+    "House Size": "3679 sqft",
+    "Description": "This stunning property in Vila Madalena offers a unique blend of modern design and spacious living. The house features a luxurious master bedroom with an en-suite bathroom, a sleek kitchen with top-of-the-line appliances, and a spacious living area perfect for entertaining guests. The property also boasts a beautiful backyard garden, perfect for relaxing and enjoying the outdoors.",
+    "Neighborhood Description": "Vila Madalena is a vibrant and trendy neighborhood known for its artistic flair, eclectic boutiques, and bustling nightlife. The area is filled with charming cafes, art galleries, and street art, making it a popular destination for young professionals and creatives. With its tree-lined streets and lively atmosphere, Vila Madalena offers a unique blend of urban living and cultural experiences."
+  },
+  {
+    "Neighborhood": "Brooklin",
+    "Price": "$266,000",
+    "Bedrooms": "1",
+    "Bathrooms": "4",
+    "House Size": "1107 sqft",
+    "Description": "This charming 1-bedroom, 4-bathroom home in Brooklin is perfect for those looking for a cozy living space with plenty of room for entertaining guests. The house features a spacious living room, a modern kitchen with stainless steel appliances, a luxurious master bedroom with an en-suite bathroom, and a beautiful backyard garden perfect for outdoor gatherings. With a total of 1107 sqft, this home offers a comfortable and stylish living experience.",
+    "Neighborhood Description": "Brooklin is a vibrant and family-friendly neighborhood known for its tree-lined streets, quaint shops, and top-rated schools. Residents enjoy easy access to parks, restaurants, and local amenities, making it a desirable location for those looking for a close-knit community atmosphere. With its charming character and convenient location, Brooklin is a sought-after neighborhood for buyers seeking a peaceful and welcoming environment to call home."
+  },
+  {
+    "Neighborhood": "Jardins",
+    "Price": "$1,464,000",
+    "Bedrooms": "2",
+    "Bathrooms": "4",
+    "House Size": "1558 sqft",
+    "Description": "This stunning property located in the desirable Jardins neighborhood boasts 2 spacious bedrooms and 4 luxurious bathrooms. The house spans 1558 square feet and offers a modern open-concept layout with high-end finishes throughout. The master bedroom features a walk-in closet and en-suite bathroom with a soaking tub and separate shower. The gourmet kitchen is equipped with top-of-the-line appliances, granite countertops, and a large island perfect for entertaining. The living room showcases a cozy fireplace and floor-to-ceiling windows that fill the space with natural light. Additional highlights include a private backyard oasis with a patio and landscaping, perfect for outdoor relaxation.",
+    "Neighborhood Description": "Jardins is known for its upscale and vibrant atmosphere, offering residents a mix of trendy boutiques, fine dining restaurants, and beautiful parks. The neighborhood is centrally located with easy access to shopping centers, entertainment venues, and major transportation routes. With tree-lined streets and a strong sense of community, Jardins is a highly sought-after location for those looking for a sophisticated urban lifestyle."
+  },
+  {
+    "Neighborhood": "Moema",
+    "Price": "$769,000",
+    "Bedrooms": "1",
+    "Bathrooms": "1",
+    "House Size": "1885 sqft",
+    "Description": "This stunning property in Moema offers a luxurious living experience with modern amenities and elegant finishes. The spacious 1885 sqft house features a beautifully designed bedroom, a stylish bathroom, and a well-appointed kitchen. The open floor plan allows for seamless flow between the living room and dining area, perfect for entertaining guests. The property also boasts ample natural light, high ceilings, and a private balcony overlooking the neighborhood.",
+    "Neighborhood Description": "Moema is a highly sought-after neighborhood known for its upscale residential buildings, trendy restaurants, and vibrant nightlife. Located in the heart of Sao Paulo, Moema offers easy access to shopping centers, parks, and cultural attractions. Residents can enjoy a peaceful environment with tree-lined streets and green spaces, making it an ideal place to call home."
+  },
+  {
+    "Neighborhood": "Pinheiros",
+    "Price": "$1,490,000",
+    "Bedrooms": "4",
+    "Bathrooms": "3",
+    "House Size": "1836 sqft",
+    "Description": "This stunning 4 bedroom, 3 bathroom home in Pinheiros is a rare find in this highly sought-after neighborhood. The house boasts a spacious 1836 sqft layout with modern finishes and ample natural light throughout. The open concept living area is perfect for entertaining, while the gourmet kitchen features top-of-the-line appliances and sleek countertops. The master bedroom offers a luxurious en-suite bathroom with a soaking tub and separate shower. Additional features include a private backyard oasis, perfect for relaxing or hosting guests, and a two-car garage for convenient parking.",
+    "Neighborhood Description": "Pinheiros is known for its vibrant and eclectic atmosphere, with trendy cafes, boutiques, and art galleries lining the streets. Residents enjoy easy access to parks, restaurants, and cultural attractions, making it a popular choice for those seeking a dynamic urban lifestyle. The neighborhood is also well-connected to public transportation options, providing easy access to other parts of the city."
+  },
+  {
+    "Neighborhood": "Brooklin",
+    "Price": "$1,336,000",
+    "Bedrooms": "4",
+    "Bathrooms": "4",
+    "House Size": "2293 sqft",
+    "Description": "This stunning 4 bedroom, 4 bathroom home in Brooklin is a true gem. The house boasts a spacious open concept layout with high ceilings and large windows that flood the space with natural light. The gourmet kitchen features top-of-the-line appliances, granite countertops, and a breakfast bar. The master bedroom is a luxurious retreat with a walk-in closet and a spa-like ensuite bathroom. Outside, the backyard is perfect for entertaining with a patio area and lush landscaping.",
+    "Neighborhood Description": "Brooklin is a charming and family-friendly neighborhood known for its tree-lined streets and close-knit community. Residents enjoy easy access to parks, schools, and local shops and restaurants. With its peaceful atmosphere and convenient location, Brooklin is the perfect place to call home."
+  },
+  {
+    "Neighborhood": "Liberdade",
+    "Price": "$990,000",
+    "Bedrooms": "5",
+    "Bathrooms": "4",
+    "House Size": "1987 sqft",
+    "Description": "This stunning 5-bedroom, 4-bathroom home in the vibrant neighborhood of Liberdade is a rare find. The spacious house boasts 1987 sqft of living space, perfect for a growing family or those who love to entertain. The open concept layout, high ceilings, and large windows flood the home with natural light. The gourmet kitchen features modern appliances, granite countertops, and ample storage space. The master bedroom suite includes a luxurious ensuite bathroom with a soaking tub and separate shower. The backyard oasis is perfect for outdoor gatherings with a covered patio, lush landscaping, and a sparkling pool.",
+    "Neighborhood Description": "Liberdade is a bustling neighborhood known for its rich cultural heritage, diverse community, and delicious cuisine. Residents enjoy easy access to trendy shops, authentic restaurants, and local markets. The neighborhood is also home to beautiful parks, art galleries, and historic landmarks. With a strong sense of community and convenient amenities, Liberdade offers a vibrant urban lifestyle."
+  },
+  {
+    "Neighborhood": "Vila Madalena",
+    "Price": "$289,000",
+    "Bedrooms": "4",
+    "Bathrooms": "3",
+    "House Size": "2674 sqft",
+    "Description": "This stunning property in Vila Madalena offers a spacious layout with 4 bedrooms, 3 bathrooms, and a total of 2674 sqft of living space. The house features modern finishes, a gourmet kitchen, a large backyard perfect for entertaining, and plenty of natural light throughout. With a convenient location close to trendy restaurants, shops, and parks, this home is ideal for those seeking a vibrant urban lifestyle.",
+    "Neighborhood Description": "Vila Madalena is a charming neighborhood known for its artistic flair, bohemian atmosphere, and lively nightlife. With colorful street art, cozy cafes, and eclectic boutiques lining the streets, residents enjoy a unique blend of culture and convenience. This sought-after area also offers easy access to public transportation, making it a popular choice for young professionals and families alike."
+  },
+  {
+    "Neighborhood": "Liberdade",
+    "Price": "$631,000",
+    "Bedrooms": "1",
+    "Bathrooms": "1",
+    "House Size": "2616 sqft",
+    "Description": "This stunning property in the vibrant neighborhood of Liberdade offers a unique opportunity for luxurious city living. The spacious 2616 sqft house features a beautifully designed 1 bedroom and 1 bathroom, perfect for a single professional or couple looking for a stylish urban retreat. The open floor plan allows for natural light to flood the living spaces, showcasing high-end finishes and modern amenities throughout. The property also includes a private outdoor patio, ideal for enjoying the bustling energy of the neighborhood.",
+    "Neighborhood Description": "Liberdade is a historic and culturally rich neighborhood in the heart of the city. Known for its diverse community and bustling street markets, Liberdade offers a unique blend of Asian and Brazilian influences. Residents can enjoy a wide array of authentic restaurants, shops, and cultural events, making it a vibrant and lively place to call home. With easy access to public transportation and close proximity to downtown, Liberdade is the perfect location for those seeking a dynamic urban lifestyle."
+  },
+  {
+    "Neighborhood": "Brooklin",
+    "Price": "$1,002,000",
+    "Bedrooms": "4",
+    "Bathrooms": "2",
+    "House Size": "3015 sqft",
+    "Description": "This stunning 4-bedroom, 2-bathroom home in Brooklin is a true gem. With a spacious 3015 sqft of living space, this property offers plenty of room for a growing family. The open concept layout is perfect for entertaining, with a modern kitchen featuring stainless steel appliances and a large island. The master bedroom boasts a walk-in closet and ensuite bathroom with a luxurious soaking tub. Outside, the backyard is beautifully landscaped with a patio area, perfect for summer BBQs.",
+    "Neighborhood Description": "Brooklin is a charming neighborhood known for its tree-lined streets and close-knit community. Residents enjoy easy access to local parks, schools, and shopping centers. With a mix of historic homes and new developments, Brooklin offers a variety of housing options for families of all sizes. Don't miss the opportunity to call this desirable neighborhood home."
+  },
+  {
+    "Neighborhood": "Jardins",
+    "Price": "$848,000",
+    "Bedrooms": "5",
+    "Bathrooms": "4",
+    "House Size": "2122 sqft",
+    "Description": "This stunning 5 bedroom, 4 bathroom home in the desirable Jardins neighborhood is a rare find. The house boasts a spacious floor plan with a modern kitchen, elegant living room, and a cozy fireplace. The master suite features a luxurious en-suite bathroom with a jacuzzi tub and a walk-in closet. The backyard is perfect for entertaining with a large patio and a beautifully landscaped garden. This home is perfect for families looking for a mix of comfort and luxury.",
+    "Neighborhood Description": "Jardins is known for its tree-lined streets, upscale shopping, and fine dining options. Located in a prime location, residents have easy access to parks, schools, and entertainment venues. The neighborhood is safe, family-friendly, and offers a high quality of life. Don't miss the opportunity to own a piece of luxury living in Jardins."
+  },
+  {
+    "Neighborhood": "Vila Madalena",
+    "Price": "$335,000",
+    "Bedrooms": "1",
+    "Bathrooms": "1",
+    "House Size": "3199 sqft",
+    "Description": "This charming property in Vila Madalena is perfect for those looking for a cozy home in a vibrant neighborhood. The house features a spacious bedroom, a modern bathroom, and a generous living area. The open layout creates a welcoming atmosphere, while the large windows provide plenty of natural light. The kitchen is equipped with top-of-the-line appliances and ample storage space. Outside, you'll find a lovely garden perfect for relaxing or entertaining guests. Don't miss the opportunity to make this beautiful house your new home!",
+    "Neighborhood Description": "Vila Madalena is known for its artistic vibe, trendy bars, and eclectic shops. It's a bustling neighborhood with a mix of old and new architecture, creating a unique and lively atmosphere. Residents enjoy easy access to parks, cafes, and cultural attractions, making it a sought-after location for young professionals and families alike. With its vibrant nightlife and vibrant community spirit, Vila Madalena offers a dynamic living experience unlike any other."
+  },
+  {
+    "Neighborhood": "Paraiso",
+    "Price": "$401,000",
+    "Bedrooms": "5",
+    "Bathrooms": "4",
+    "House Size": "3641 sqft",
+    "Description": "This stunning 5-bedroom, 4-bathroom home in Paraiso is a true gem. With a spacious 3641 sqft layout, this property offers ample space for a growing family or those who love to entertain. The open concept kitchen and living area is perfect for hosting gatherings, while the master suite provides a luxurious retreat with a spa-like ensuite bathroom. The backyard features a beautifully landscaped garden and a covered patio, ideal for enjoying the warm Paraiso weather.",
+    "Neighborhood Description": "Paraiso is a sought-after neighborhood known for its peaceful atmosphere and close-knit community. Residents enjoy easy access to local parks, schools, and shopping centers, making it a convenient place to call home. With tree-lined streets and well-maintained properties, Paraiso offers a picturesque setting for families and individuals looking for a tranquil living environment."
+  },
+  {
+    "Neighborhood": "Moema",
+    "Price": "$651,000",
+    "Bedrooms": "2",
+    "Bathrooms": "4",
+    "House Size": "2787 sqft",
+    "Description": "This stunning property in Moema offers a spacious 2-bedroom, 4-bathroom home with a generous house size of 2787 sqft. The open floor plan creates a seamless flow between the living room, dining area, and kitchen, perfect for entertaining guests. The master bedroom features a luxurious en-suite bathroom with a soaking tub and separate shower. The property also boasts a private backyard oasis, ideal for relaxing or hosting outdoor gatherings.",
+    "Neighborhood Description": "Moema is a highly sought-after neighborhood known for its upscale residential areas, vibrant shopping districts, and diverse dining options. Residents enjoy easy access to parks, schools, and public transportation, making it a desirable location for families and young professionals alike. With its tree-lined streets and close proximity to amenities, Moema offers a blend of convenience and luxury living."
+  },
+  {
+    "Neighborhood": "Paraiso",
+    "Price": "$726,000",
+    "Bedrooms": "2",
+    "Bathrooms": "4",
+    "House Size": "3327 sqft",
+    "Description": "This stunning property in the desirable Paraiso neighborhood offers a spacious 3327 sqft home with 2 bedrooms and 4 bathrooms. The house features high ceilings, large windows allowing for plenty of natural light, a modern kitchen with top-of-the-line appliances, a luxurious master suite with a spa-like bathroom, and a beautifully landscaped backyard perfect for entertaining.",
+    "Neighborhood Description": "Paraiso is a charming and upscale neighborhood known for its tree-lined streets, beautiful parks, and proximity to top-rated schools, trendy restaurants, and boutique shops. Residents enjoy a peaceful and family-friendly atmosphere with easy access to amenities and a short commute to downtown."
+  },
+  {
+    "Neighborhood": "Bela Vista",
+    "Price": "$613,000",
+    "Bedrooms": "4",
+    "Bathrooms": "4",
+    "House Size": "3913 sqft",
+    "Description": "This stunning 4-bedroom, 4-bathroom home in Bela Vista offers luxurious living with a spacious 3913 sqft floor plan. The property features high-end finishes throughout, including hardwood floors, a gourmet kitchen with stainless steel appliances, and a master suite with a spa-like bathroom. The open concept living area is perfect for entertaining, and the backyard oasis includes a pool and patio for outdoor gatherings. With ample natural light and modern design elements, this home is the epitome of elegance and comfort.",
+    "Neighborhood Description": "Bela Vista is a highly sought-after neighborhood known for its upscale homes, tree-lined streets, and proximity to top-rated schools and amenities. Residents enjoy easy access to shopping, dining, and entertainment options, as well as beautiful parks and recreational facilities. With a strong sense of community and a central location, Bela Vista is the perfect place to call home for families and professionals alike."
+  },
+  {
+    "Neighborhood": "Vila Madalena",
+    "Price": "$382,000",
+    "Bedrooms": "3",
+    "Bathrooms": "2",
+    "House Size": "3982 sqft",
+    "Description": "This charming 3-bedroom, 2-bathroom home in Vila Madalena is a hidden gem in the heart of the city. The house boasts a spacious 3982 sqft floor plan with a modern kitchen, cozy living room, and a beautiful backyard perfect for entertaining. The master bedroom features a walk-in closet and en-suite bathroom, providing a private retreat for homeowners. With hardwood floors throughout and plenty of natural light, this home exudes warmth and comfort. Additionally, the property includes a detached garage and ample storage space.",
+    "Neighborhood Description": "Vila Madalena is a vibrant and trendy neighborhood known for its artistic flair, eclectic shops, and lively nightlife. Residents enjoy easy access to local cafes, restaurants, and boutiques, making it a sought-after location for young professionals and families alike. The neighborhood is also home to beautiful parks and green spaces, providing a peaceful escape from city life. With a strong sense of community and a variety of cultural attractions, Vila Madalena offers a truly unique living experience."
+  },
+  {
+    "Neighborhood": "Liberdade",
+    "Price": "$1,249,000",
+    "Bedrooms": "4",
+    "Bathrooms": "2",
+    "House Size": "3323 sqft",
+    "Description": "This stunning 4-bedroom, 2-bathroom home in the vibrant neighborhood of Liberdade is a true gem. The spacious house boasts 3323 sqft of living space, perfect for a growing family or those who love to entertain. The open concept layout allows for seamless flow between the living room, dining area, and modern kitchen. The master bedroom features an en-suite bathroom and a walk-in closet, providing a private retreat within the home. The backyard oasis is ideal for al fresco dining and relaxation, with a lush garden and patio area.",
+    "Neighborhood Description": "Liberdade is a diverse and culturally rich neighborhood known for its historic architecture, bustling markets, and delicious cuisine. With a strong Japanese influence, the area is home to a variety of authentic restaurants, shops, and festivals celebrating Japanese culture. Residents enjoy easy access to public transportation, parks, and local amenities, making Liberdade a desirable place to call home."
+  },
+  {
+    "Neighborhood": "Paraiso",
+    "Price": "$1,459,000",
+    "Bedrooms": "3",
+    "Bathrooms": "3",
+    "House Size": "1216 sqft",
+    "Description": "This stunning 3-bedroom, 3-bathroom home in Paraiso is a true gem. Featuring a modern design with high-end finishes, this property offers an open floor plan with plenty of natural light. The spacious master suite includes a walk-in closet and a luxurious en-suite bathroom. The gourmet kitchen is equipped with top-of-the-line appliances and a large island, perfect for entertaining. The living room opens up to a beautifully landscaped backyard, ideal for outdoor dining and relaxation. Additional features include hardwood floors, a two-car garage, and a laundry room.",
+    "Neighborhood Description": "Paraiso is a highly desirable neighborhood known for its peaceful atmosphere and convenient location. Residents enjoy easy access to parks, restaurants, shopping centers, and top-rated schools. With tree-lined streets and friendly neighbors, Paraiso offers a true sense of community. Don't miss this opportunity to own a piece of paradise in this sought-after area."
+  },
+  {
+    "Neighborhood": "Brooklin",
+    "Price": "$276,000",
+    "Bedrooms": "3",
+    "Bathrooms": "3",
+    "House Size": "3883 sqft",
+    "Description": "This charming 3-bedroom, 3-bathroom home in Brooklin is the perfect blend of modern amenities and traditional charm. The spacious house boasts a total of 3883 sqft of living space, providing ample room for a growing family or those who love to entertain. The open concept kitchen features stainless steel appliances, granite countertops, and a large island, making it a chef's dream. The master bedroom offers a walk-in closet and en-suite bathroom with a luxurious soaking tub. Outside, the backyard is perfect for summer BBQs and relaxing evenings under the stars.",
+    "Neighborhood Description": "Brooklin is a sought-after neighborhood known for its peaceful streets, family-friendly atmosphere, and close-knit community. Residents enjoy easy access to parks, schools, shopping, and dining options. With its proximity to major highways, commuting to downtown or other parts of the city is a breeze. Brooklin offers the perfect balance of suburban tranquility and urban convenience, making it a desirable place to call home."
+  },
+  {
+    "Neighborhood": "Morumbi",
+    "Price": "$650,000",
+    "Bedrooms": "5",
+    "Bathrooms": "3",
+    "House Size": "3231 sqft",
+    "Description": "This stunning 5-bedroom, 3-bathroom home in Morumbi is a true gem. With a spacious 3231 sqft of living space, this property offers ample room for a growing family or those who love to entertain. The home features a modern kitchen with top-of-the-line appliances, a cozy fireplace in the living room, and a luxurious master suite with a spa-like bathroom. The backyard is perfect for outdoor gatherings, with a patio area and lush greenery providing a serene escape from the hustle and bustle of city life.",
+    "Neighborhood Description": "Morumbi is a prestigious neighborhood in Sao Paulo known for its upscale homes, lush greenery, and proximity to amenities. Residents enjoy easy access to shopping centers, restaurants, and schools, making it a highly sought-after area for families and professionals alike. With its tranquil atmosphere and beautiful surroundings, Morumbi offers a high quality of life for those looking to settle down in a vibrant and thriving community."
+  },
+  {
+    "Neighborhood": "Liberdade",
+    "Price": "$1,234,000",
+    "Bedrooms": "2",
+    "Bathrooms": "3",
+    "House Size": "3935 sqft",
+    "Description": "This stunning property in the vibrant neighborhood of Liberdade offers a unique blend of modern amenities and historic charm. The house features 2 spacious bedrooms, 3 luxurious bathrooms, and a generous house size of 3935 sqft. The open concept living area is perfect for entertaining, with high ceilings and large windows allowing for plenty of natural light. The gourmet kitchen is equipped with top-of-the-line appliances and sleek countertops. The master suite boasts a spa-like ensuite bathroom and a walk-in closet. Outside, the beautifully landscaped backyard provides a tranquil retreat with a patio for outdoor dining and a lush garden.",
+    "Neighborhood Description": "Liberdade is a diverse and culturally rich neighborhood known for its unique blend of Japanese and Portuguese influences. The area is famous for its bustling markets, delicious restaurants, and colorful festivals. Residents enjoy convenient access to public transportation, parks, and shopping centers. Liberdade offers a vibrant community atmosphere with a mix of historic architecture and modern amenities, making it a sought-after location for those looking for a dynamic urban lifestyle."
+  },
+  {
+    "Neighborhood": "Liberdade",
+    "Price": "$1,326,000",
+    "Bedrooms": "5",
+    "Bathrooms": "2",
+    "House Size": "3995 sqft",
+    "Description": "This stunning 5-bedroom, 2-bathroom home in the vibrant neighborhood of Liberdade is a rare find. Boasting a spacious 3995 sqft of living space, this property offers ample room for comfortable living and entertaining. The interior features high ceilings, large windows that flood the rooms with natural light, and a modern kitchen with top-of-the-line appliances. The master bedroom includes a luxurious en-suite bathroom with a soaking tub and separate shower. Outside, the backyard oasis is perfect for al fresco dining and relaxing in the sun. This home truly combines elegance and functionality, making it a dream come true for any discerning buyer.",
+    "Neighborhood Description": "Liberdade is a bustling neighborhood known for its rich cultural heritage and vibrant atmosphere. Home to a large Japanese community, the area is famous for its diverse dining options, including authentic Japanese cuisine and traditional markets. The neighborhood also boasts beautiful parks, historic buildings, and easy access to public transportation. With a lively street scene and a strong sense of community, Liberdade offers a unique and exciting living experience for residents."
+  },
+  {
+    "Neighborhood": "Morumbi",
+    "Price": "$958,000",
+    "Bedrooms": "1",
+    "Bathrooms": "3",
+    "House Size": "2235 sqft",
+    "Description": "This stunning property in the prestigious neighborhood of Morumbi offers luxury living at its finest. The house features a spacious bedroom, perfect for relaxation and comfort. The three bathrooms are elegantly designed with modern fixtures and luxurious finishes. With a generous house size of 2235 sqft, there is plenty of room for entertaining guests or simply enjoying the peaceful surroundings. The property also boasts a beautiful garden and outdoor space, ideal for enjoying the sunny days in Morumbi.",
+    "Neighborhood Description": "Morumbi is known for its upscale and exclusive residential areas, offering a high standard of living for its residents. The neighborhood is surrounded by lush greenery and parks, providing a serene and tranquil environment. With top-rated schools, shopping centers, and fine dining options nearby, Morumbi is the perfect place to call home for those seeking luxury and convenience."
+  },
+  {
+    "Neighborhood": "Itaim Bibi",
+    "Price": "$817,000",
+    "Bedrooms": "2",
+    "Bathrooms": "3",
+    "House Size": "3629 sqft",
+    "Description": "This stunning property in Itaim Bibi boasts a spacious 3629 sqft of living space with 2 bedrooms and 3 bathrooms. The modern design and high-end finishes throughout the home create a luxurious and comfortable living environment. The open concept layout is perfect for entertaining guests, and the large windows allow for plenty of natural light to brighten the space. The master bedroom features a walk-in closet and en-suite bathroom, providing a private retreat within the home. Additionally, the property includes a private outdoor patio for enjoying the beautiful weather in Itaim Bibi.",
+    "Neighborhood Description": "Itaim Bibi is a trendy and upscale neighborhood in S\u00e3o Paulo, known for its high-end restaurants, bars, and shopping options. The area is popular among young professionals and expats for its vibrant nightlife and convenient location. With easy access to parks, cultural attractions, and public transportation, Itaim Bibi offers the perfect blend of urban convenience and green spaces. This sought-after neighborhood is ideal for those looking for a lively atmosphere with all the amenities of city living."
+  },
+  {
+    "Neighborhood": "Brooklin",
+    "Price": "$866,000",
+    "Bedrooms": "1",
+    "Bathrooms": "3",
+    "House Size": "1860 sqft",
+    "Description": "This stunning 1 bedroom, 3 bathroom home in Brooklin is a rare find. The house features a spacious open concept living area with high ceilings and plenty of natural light. The modern kitchen is equipped with stainless steel appliances and a large island, perfect for entertaining guests. The master bedroom boasts a luxurious en-suite bathroom with a soaking tub and separate shower. Outside, the backyard offers a private oasis with a patio and lush landscaping.",
+    "Neighborhood Description": "Brooklin is a charming and family-friendly neighborhood known for its tree-lined streets and cozy atmosphere. Residents enjoy easy access to local shops, restaurants, and parks. With top-rated schools and a strong sense of community, Brooklin is the perfect place to call home."
+  },
+  {
+    "Neighborhood": "Pinheiros",
+    "Price": "$654,000",
+    "Bedrooms": "4",
+    "Bathrooms": "2",
+    "House Size": "915 sqft",
+    "Description": "This stunning 4-bedroom, 2-bathroom home in Pinheiros is a rare find in the bustling city. The house boasts a spacious layout with 915 sqft of living space, perfect for a growing family or those who love to entertain. The modern kitchen features stainless steel appliances and granite countertops, while the master bedroom offers a private en-suite bathroom. The property also includes a charming backyard patio, ideal for enjoying warm summer evenings.",
+    "Neighborhood Description": "Pinheiros is a trendy neighborhood known for its vibrant nightlife, eclectic dining scene, and artistic flair. Home to numerous art galleries, boutiques, and cafes, residents of Pinheiros enjoy a unique blend of culture and convenience. With easy access to public transportation and nearby parks, this neighborhood offers the perfect balance of urban living and green spaces. Don't miss out on the opportunity to call Pinheiros home."
+  },
+  {
+    "Neighborhood": "Morumbi",
+    "Price": "$539,000",
+    "Bedrooms": "5",
+    "Bathrooms": "4",
+    "House Size": "1810 sqft",
+    "Description": "This stunning 5-bedroom, 4-bathroom home in Morumbi is the epitome of luxury living. With a spacious 1810 sqft of living space, this property boasts high-end finishes, a gourmet kitchen with top-of-the-line appliances, a cozy fireplace in the living room, and a beautifully landscaped backyard perfect for entertaining. The master suite features a walk-in closet and a luxurious en-suite bathroom with a soaking tub and separate shower.",
+    "Neighborhood Description": "Morumbi is a prestigious neighborhood known for its upscale homes, lush greenery, and proximity to top-rated schools, shopping centers, and fine dining restaurants. Residents enjoy a peaceful suburban atmosphere while still being conveniently located near major highways for easy access to the city center. With its tree-lined streets and beautiful parks, Morumbi offers a tranquil escape from the bustling city life."
+  },
+  {
+    "Neighborhood": "Morumbi",
+    "Price": "$847,000",
+    "Bedrooms": "3",
+    "Bathrooms": "2",
+    "House Size": "2483 sqft",
+    "Description": "This stunning property in the desirable Morumbi neighborhood offers 3 bedrooms, 2 bathrooms, and a spacious 2483 sqft of living space. The house features a modern kitchen with high-end appliances, a cozy fireplace in the living room, and a beautifully landscaped backyard perfect for entertaining. The master bedroom boasts a luxurious en-suite bathroom and a walk-in closet. With plenty of natural light and tasteful finishes throughout, this home is perfect for those seeking comfort and style in a prime location.",
+    "Neighborhood Description": "Morumbi is a prestigious neighborhood known for its upscale homes, lush greenery, and proximity to amenities. Residents enjoy easy access to top-rated schools, shopping centers, parks, and dining options. The neighborhood offers a tranquil and safe environment, making it ideal for families and individuals looking for a high quality of life. With its convenient location and beautiful surroundings, Morumbi is a sought-after area for those seeking luxury living in the city."
   }
 ]
