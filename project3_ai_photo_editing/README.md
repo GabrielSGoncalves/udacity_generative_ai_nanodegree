@@ -11,3 +11,10 @@ The challenge is to create an intuitive workflow where users can upload an image
 - Text-to-Image Generation: After finalizing the mask, users provide a text prompt (and optionally, a negative prompt) describing the desired new background or subject. The diffusion inpainting model uses this prompt to generate a realistic replacement.
 - Background or Subject Substitution: Users can choose to either swap out the background while keeping the subject, or invert the mask to replace the subject and retain the background.
 - Versatile Image Editing: The app supports background substitution, subject substitution, object removal, and creative compositing, making it suitable for a variety of image editing needs.
+
+## Using Inpainting App
+Below we have a picture that was edited using the Inpainting App. It illustrates Michael Jordan about to dunk (original picture `mj.png`), and it was edited using the following prompt:
+```
+Replace background with a sky full of clouds
+```
+![image](inpaint_mj.png)
